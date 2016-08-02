@@ -3,6 +3,14 @@ Questions template:
 2. What will I do today to help the development teaME meet the Sprint Goal?
 3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
 
+8/2/16
+1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
+  - General polish of linkedIn profile
+2. What will I do today to help the development teaME meet the Sprint Goal?
+  - Find a first job to apply to
+3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
+  - Time again. This time I'll have maybe 3 hours to accomplish all this. The daily scrum is the first thing now, though, so that's taken care of. But it's important I succeed at applying for a job today, and I don't think I'll have enough time to do a good job bringing that task to done. I have to both find a job to apply to, make sure I have the information neccessary to apply, and apply to it.
+
 8/1/16
 1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
   - Setup daily Scrum
