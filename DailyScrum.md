@@ -3,6 +3,16 @@ Questions template:
 2. What will I do today to help the development teaME meet the Sprint Goal?
 3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
 
+Questions template:
+1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
+  - Applied to my first job
+2. What will I do today to help the development teaME meet the Sprint Goal?
+  - update my job descriptions on linkedIn
+  - Create open coverletter on github
+  - Find a second job to apply to and apply
+3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
+  - Today is a day off so I have more time. One impediment is a general feeling of negativity form my work environment and other acquaintences. This is not helful and I will have to fight my environment to make sure it influences me as little as possible.
+
 8/2/16
 1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
   - General polish of linkedIn profile
