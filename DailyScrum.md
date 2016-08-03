@@ -3,7 +3,7 @@ Questions template:
 2. What will I do today to help the development teaME meet the Sprint Goal?
 3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
 
-Questions template:
+8/3/16
 1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
   - Applied to my first job
 2. What will I do today to help the development teaME meet the Sprint Goal?
