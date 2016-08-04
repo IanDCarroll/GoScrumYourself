@@ -11,13 +11,13 @@ Sprint BackLog
   - Letter is short and sweet
   - Letter is well revised and worded.
   - Letter has no typos.
-- Scout Jobs on Scrum Alliance -3-
+- Scout Jobs on websites -5-
   Acceptance:
-  - Ear mark five 80% qualifying positions
-  - Note any missing requirements
+  - Apply to any qualifying positions.
+  - Note any missing requirements if 80% qualifying.
 - Polish Code on GitHub -8-
   - code should run.
   - code should be correctly doccumented.
   - code should be neat, tidy, readable.
 
-Total Commitment: 21
+Total Commitment: 23

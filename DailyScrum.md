@@ -1,7 +1,19 @@
 Questions template:
-1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
-2. What will I do today to help the development teaME meet the Sprint Goal?
-3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
+1. What did I do Yesterday that helped meet the Sprint Goal?
+2. What will I do today to help meet the Sprint Goal?
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+
+8/4/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Updated my job descriptions on linkedIn
+  - Wrote a resume so I could apply for jobs
+  - Applied for a job
+  - Created an open coverletter on github
+2. What will I do today to help meet the Sprint Goal?
+  - Polish github code
+  - Learn Python the Hard Way
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - I should be able to accomplish this, and perhaps a little more, judging from yesterday's work.
 
 8/3/16
 1. What did I do Yesterday that helped the development teaME meet the Sprint Goal?
