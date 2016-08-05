@@ -3,6 +3,19 @@ Questions template:
 2. What will I do today to help meet the Sprint Goal?
 3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
 
+8/5/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Polished GitHub code
+  - Applied for a job
+  - Wrote a blog post
+  - Setup a Kanban for handling daily house chores.
+2. What will I do today to help meet the Sprint Goal?
+  - The sprint goal has been met!
+  - Learn Python the Hard Way
+  - Apply for a Job
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - No, but I have noticed a trend of no completing Learn Python the Hard Way. I think this activity needs some attention as to why it's not getting done.
+
 8/4/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Updated my job descriptions on linkedIn
