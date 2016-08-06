@@ -11,13 +11,17 @@ Sprint BackLog
   - Letter is short and sweet
   - Letter is well revised and worded.
   - Letter has no typos.
-- Scout Jobs on websites -5-
+- Scout Jobs on websites -8-
   Acceptance:
   - Apply to any qualifying positions.
   - Note any missing requirements if 80% qualifying.
-- Polish Code on GitHub -8-
+- Polish Code on GitHub -1-
   - code should run.
   - code should be correctly doccumented.
   - code should be neat, tidy, readable.
+- Create Resume -5-
+  - Should be application-ready.
+  - No typos.
+  - Short and Sweet.
 
-Total Commitment: 23
+Total Commitment: 24

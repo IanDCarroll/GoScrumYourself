@@ -3,6 +3,16 @@ Questions template:
 2. What will I do today to help meet the Sprint Goal?
 3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
 
+8/6/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Exercises from Learn Python the Hard Way
+2. What will I do today to help meet the Sprint Goal?
+  - Apply for a job
+  - Sprint review/retro
+  - Backlog Grooming
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - The task fo workbook assignments or applying for a job are both more involved and use more time than I originally anticipated. I'll have to remember this in the future.
+
 8/5/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Polished GitHub code

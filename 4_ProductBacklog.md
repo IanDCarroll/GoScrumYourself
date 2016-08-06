@@ -1,15 +1,12 @@
 Product Backlog for __Ready to Apply__
 
-- Update Linked In
-- Create general cover letter and add it to the scrum repo.
-- Scout Jobs on Scrum Alliance
-- Polish Code on GitHub
+- Revise resume
 - Update Ghost Blog
-- Scout Jobs on Linked In
-- Enroll in CC course so that I can be eligible for a Disney Internship
-- make a repo out of HardWay
+- Scout Jobs on other sites.
+- Enroll in CC course so that I can be eligible for a Disney Internship.
 - Build Resume, but don't post it publicly on github, just by request or as needed.
-- Creat profiles on jobhunting sites
+- Create separate resumes for Business Analyst and Junior Dev positions.
+- Create profiles on jobhunting sites
 - Apply to placement agencies
 
 Ordered? Yes.
