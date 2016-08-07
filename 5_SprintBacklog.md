@@ -1,27 +1,18 @@
 Sprint BackLog
 
-- Update Linked In -5-
-  Acceptance: 
-  - Linked in profile is complete and looks sharp
-  - conversations have been started
-- Create general cover letter and add it to the scrum repo.
-  acceptance: -5-
-  - Letter is for readers who happen upon the repo
-  - Letter is not dull to read
-  - Letter is short and sweet
-  - Letter is well revised and worded.
-  - Letter has no typos.
-- Scout Jobs on websites -8-
-  Acceptance:
-  - Apply to any qualifying positions.
-  - Note any missing requirements if 80% qualifying.
-- Polish Code on GitHub -1-
-  - code should run.
-  - code should be correctly doccumented.
-  - code should be neat, tidy, readable.
-- Create Resume -5-
-  - Should be application-ready.
-  - No typos.
-  - Short and Sweet.
+- Revise resume -5-
+  - All bullet points express accomplishments, not assigned tasks
+  - Resume style is updated to be more even
+  - Try to de-emphasise sales experience
+  - Try to emphasise technical experience
+  - Include volunteer experience in separate category
+- Apply for jobs. -15-
+  - 3 jobs applied for (-5- x3)
+- Update Ghost Blog -5-
+  - Write something small and technical. Still can't think of it? Go smaller.
+- Do Learn Python the Hard Way exercises -15-
+  - 5 exercises (-3- x5)
+- Enroll in CC course so that I can be eligible for a Disney Internship. -2-
+  - Enroll date has likely passed; find out when is time for the next session.
 
-Total Commitment: 24
+Total Commitment: 42

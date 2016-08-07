@@ -3,6 +3,23 @@ Questions template:
 2. What will I do today to help meet the Sprint Goal?
 3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
 
+
+
+
+
+8/7/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Completed sprint 1
+  - Backlog Grooming
+2. What will I do today to help meet the Sprint Goal?
+  - Learn Python the Hardway exercise
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - Because of limited time, likely less than 2 hours, I'll try to knock out an easy task today rather than start on the more critical, but more involved project of revising the resume. Although, I could have done that instead by breaking the resume task down into smaller parts.
+
+***
+sprint 2 ^
+***
+
 8/6/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Exercises from Learn Python the Hard Way
@@ -74,3 +91,7 @@ Questions template:
   - Do an exercise today.
 3. Do I see any impediment that prevents the me and/or the development TeaME from meeting the Sprint Goal?
   - because of erratic day-job scheduling, I only have a total of 2 hours to work today, and already 3/4 of that is used. I will have to work hard to produce little today.
+
+***
+Sprint 1 ^
+***
