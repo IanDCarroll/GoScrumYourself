@@ -7,6 +7,17 @@ Questions template:
 
 
 
+8/8/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Sprint Planning
+  - Backlog Grooming
+  - Learn Python the Hard Way
+2. What will I do today to help meet the Sprint Goal?
+  - Learn Python the Hard Way
+  - Revise Resume
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - Time, chores, and obligations, my eternal nemeses. Again only got a few hours to work.
+
 8/7/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Completed sprint 1
