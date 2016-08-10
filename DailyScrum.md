@@ -7,6 +7,17 @@ Questions template:
 
 
 
+8/10/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Revise Resume
+  - Learn Python the Hard Way
+2. What will I do today to help meet the Sprint Goal?
+  - Learn Python the Hard way
+  - Revise GitHub Cover Letter
+  - Apply to a Job
+3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+  - The major impediment is a feeling that I'm always biting off more than I can chew. If I just focus on making promises I know I can keep instead of promises _I'd like to be able to keep_, I'd be in a happier more productive place.
+
 8/9/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Learn Python the Hard Way
