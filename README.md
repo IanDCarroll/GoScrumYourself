@@ -2,17 +2,47 @@ Dear GitHub Repo Viewer,
 
 Hello! Thank you for stopping by my experiment, here! :smile:
 
-Allow me to introduce myself: I am Ian Carroll, and I am bootstrapping myself for a career change into sofware development. I am learning web development: JavaScript, Python, Android, and a sundry related items. I am also a Certified ScrumMaster, and have a keen interest in agile practices.
+This is a markdown scrum framework. traditional scrum uses the high technology of post-it notes an a wall. On GitHub, markdown docs and a repo are about as close as you come to that. 
 
-As a way of understanding scrum, "getting it into my bones", as my Theatre Professors might have said, I have decided to *go scrum myself*. That is, I am using scrum as the framework for developing myself and conducting my job search. You'll notice the other markdown documents here are artifacts for scrum. Because I'm the only person involved, I must fill all three roles, Product Owner, ScrumMaster, and Development Team. And as for rituals, there are records kept of those as well. I am basically trying to see if I can conduct a personal scrum, scale it down to be useful in this circumstance as a very meta exercise of developing myself as a developer. Please feel free to review my progress. 
+In this case, I'm using it to develop myself as a developer who scrums. 
 
-My day job does not allow me blocks of free time to go to bootcamps or other such programs, nor does it provide the funds to finance such a solution. It is an engineering challenge. How do you build a developer on only after-hours time and effectively zero dollars? So I am engaging scrum as the framework for this. I hope to be able to use the skills I learn in this experiment as a primer for working in larger teams.
+Meta? Yes.
 
-As for teams, I work with a meetup here called fullStackLA: https://github.com/fullstackla. And I am also working on a two-person adroid development project: https://gihub.com/dicehard. My theatre background gives me a wealth of soft skills relating to teamwork and communication. What I am learning is how to effectively contribute to such teams and add value to both their workflow and their product.
+__For experienced Scrummers:__
 
-I hope you will consider me as a member of your team. I am very committed to learning, as my github account will attest. I am currently looking for a place where I can grow as a junior developer or business analyst and contribute to your organization's overall value. If you have any questions I would be thrilled to answer them. If you Have any suggestions, I'd be equally thrilled to hear them. Please e-mail me at ian.d.carroll@gmail.com or just post something in the issues. :smile:
+Please take a look at this, I would love feedback and suggestions. Has anyone else tried this? I'd love to hear stories!
 
-I'm looking forward to hearing from you and would love the opportunity to contribute to your team!
+__For new Scrummers:__
 
-Warm wishes,
+Please feel free to ask any questions! The world of scrum and agile might seem intimidating. It is likely a very different work mindset than you're used to. But it is also a much friendlier and more productive work mindset, and one I'd very much encourage you to wrap your head around. 
+
+It is not a language. It is not a toolset. It is a simple framework on which we can hang toolsets to make them neat, tidy, low mantainence, more productive and genrally happy. 
+
+Trello is cool. Jira is cool, but all you need is your brain, post-it notes and a wall to scrum. The tool can be useful, but...
+
+_"A fool with a tool is still a fool"_ 
+
+The tool without the scrum mindset is not scrum. The scrum mindset requires trust. That trust allows for the scrum values to exist in a team: Focus, Openness, Respect, Courage, and Commitment. Scrum does not generate these directly, but allows them to develop through its framework and those who facilitate it. It is what a healthy scrum team imbodies while they produce a high value and timely product.
+
+If you like the idea of being in a team that trusts and supports eachother,
+where there is foucs and commitment to the goal of a valuable and relevant product,
+where there is openness and respect for eachother's role in that process,
+where work is done right and on time without the need for a lot of late nights,
+then scrum is something that might be of interest to you.
+
+__For prospective employers:__
+
+Thank you for taking the time to review my repo! I really appreciate it. My name is Ian Carroll and I am currently looking for a role in an agile environment, and have a number of skills that I have developed to deliver value for your team.
+
+I am a Certified ScrumMaster. I also make OSS contributions on my own and through a meetup here in LA: https://github.com/fullstackla where I am currently working on a map website that will make it easier for developers to get involved across LA. I am also working on a dice-rolling android app with David Larrimore for fun and learning: https://github.com/DiceHard. I also have a number of repos of commandline scripts I've written in JavaScript, Python, Java and C. I am constantly learning more and I welcome you to check out my progress.
+
+As for soft skills I have a rich background in customer service, sales, and theatre. Theatre means I know how to speak publicly, collaborate on something that hasn't been done before, and get things done by show-time. Customer service means I am very good at listening, offering suggestions, and transforming bad experiences into good ones. Sales means that I am fearless in setting out to try new methods, and undeterred by setbacks. In my whole life, I have never stopped learning. By the end of my tenure at each of my previous positions, none of my peers knew more about our product than me, regardless of what that product was.
+
+I also have a very diverse background of expereinces and will bring a unique perspective to the team. Besides having worked with retail POS and inventory systems, and having opinions on those, I also have a background in story-telling, in Classical Chinese culture and philosophy, and in Chess as a form of meditation and self-awareness.
+
+I am still learning, and plan to be for the rest of my life, and I am looking for a team where I can optimise that learning and deliver increasing value with every sprint. Please feel free to comment in the issues here with any suggestions for imporvement, or contact me via my e-mail with any questions or to set up a time to talk.
+
+Again, thank you for taking the time to review my repos, I hope we can work together to make valuable products.
+
+Warm regards,
 Ian
