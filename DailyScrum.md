@@ -1,10 +1,22 @@
 Questions template:
 1. What did I do Yesterday that helped meet the Sprint Goal?
 2. What will I do today to help meet the Sprint Goal?
-3. Do I see any impediment that prevents the me from meeting the Sprint Goal?
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
 
 
 
+
+8/11/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Learn Python the Hard Way
+  - Revise Github Cover Letter
+  - Apply to a job
+2. What will I do today to help meet the Sprint Goal?
+  - Learn Python the Hard way
+  - apply for a job
+  - Write a blog post about what we did at fullstackla yesterday
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - Not enough time. Again. A deep feeling of dread even though I'm meeting the goals. I need to cure myself of that mindset.
 
 
 8/10/16
