@@ -4,7 +4,8 @@ Product Backlog for __Ready to Apply__
 - Update Ghost Blog
 - Scout Jobs on other sites.
 - Revise GitHub Cover letter.
-- Enroll in CC course so that I can be eligible for a Disney Internship.
+- Revise resume to meet Innovate Pasadena standards
+- Create a definition of done checklist for job applications based on IP standards.
 - Create separate resumes for Business Analyst and Junior Dev positions.
 - Create profiles on jobhunting sites
 - Apply to placement agencies
