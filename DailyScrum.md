@@ -6,6 +6,19 @@ Questions template:
 
 
 
+8/12/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Wrote a blog post about what we did at FullStackLA
+  - Applied for a job
+  - Attended a tech resume and recruiting process event by Innovate Pasadena
+  - Reseached CC courses, requirements, etc.
+  - Learn Python the Hard Way
+2. What will I do today to help meet the Sprint Goal?
+  - Apply for a job
+  - Blog post => How you do anything is how you do everything.
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - Time again. I've only got a few hours after work today. 2 or 3 tops.
+
 8/11/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Learn Python the Hard Way
