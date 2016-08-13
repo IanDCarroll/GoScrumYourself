@@ -6,6 +6,18 @@ Questions template:
 
 
 
+8/13/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Backlog grooming
+  - Applied for a job using updated standards
+2. What will I do today to help meet the Sprint Goal?
+  - blog post => how you do anything is how you do everything
+  - backlog grooming
+  - sprint review
+  - sprint retrospective
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - Short on time again. Likely will not have time to complete this last blog post.
+
 8/12/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Wrote a blog post about what we did at FullStackLA
