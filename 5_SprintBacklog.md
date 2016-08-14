@@ -5,7 +5,7 @@ Sprint BackLog
 
 - Revise resume to meet Innovate Pasadena standards -5-
   - Implements all suggestions from IP notes
-  - Revises wording for impact
+  - Revised wording for impact
 
 - Create Coaching Log for Barnes and Noble Head Cashiers -epic- -15-
   - Page with Names and percentages as of start-of-sprint -At Work-
@@ -17,7 +17,7 @@ Sprint BackLog
   - Has Sprint Number on sheet set. -2-
   - Team Incremment page for progress made. -5-
 
-- Apply to 3 jobs  (3x -5-) -15-
+- Apply to 3 jobs  (3x -5-) -15- *Dependency
   - Meets definition of done checklist
 
 - Learn Python the Hard Way ex23 -5-
