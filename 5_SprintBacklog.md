@@ -1,22 +1,28 @@
 Sprint BackLog
 
-- Revise resume -5-
-  - All bullet points express accomplishments, not assigned tasks
-  - Resume style is updated to be more even
-  - Try to de-emphasise sales experience
-  - Try to emphasise technical experience
-  - Include volunteer experience in separate category
-- Apply for jobs. -15-
-  - 3 jobs applied for (-5- x3)
-- Update Ghost Blog -5-
-  - Write something small and technical. Still can't think of it? Go smaller.
-- Do Learn Python the Hard Way exercises -15-
-  - 5 exercises (-3- x5)
-- Revise github Cover Letter -5-
-  - Mention coding skills
-  - Mention accomplishments
-  - Mention how you work and approach problems.
-- Enroll in CC course so that I can be eligible for a Disney Internship. -1-
-  - Enroll date has likely passed; find out when is time for the next session.
+- Create a definition of done checklist for job applications based on IP standards.-5-
+  - Uses all suggestions from IP notes and standardizes them.
 
-Total Commitment: 46 (Overloaded?)
+- Revise resume to meet Innovate Pasadena standards -5-
+  - Implements all suggestions from IP notes
+  - Revises wording for impact
+
+- Create Coaching Log for Barnes and Noble Head Cashiers -epic- -15-
+  - Page with Names and percentages as of start-of-sprint -At Work-
+  - Issues tracker with specific cases where cashiers need coaching -8-
+   - Able to assign mentor to specific issue
+   - Able to flag if mentor is needed or if new mentor is needed
+   - Able to provide comments for what methods were tried
+   - Able to show whether the method is in progress, succeeded, or needs another approach
+  - Has Sprint Number on sheet set. -2-
+  - Team Incremment page for progress made. -5-
+
+- Apply to 3 jobs  (3x -5-) -15-
+  - Meets definition of done checklist
+
+- Learn Python the Hard Way ex23 -5-
+  - Follow the doc. Read. Be present. "Awareness cures."
+
+
+
+Total Commitment: 40
