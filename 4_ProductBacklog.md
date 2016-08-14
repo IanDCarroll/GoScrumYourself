@@ -1,10 +1,5 @@
 Product Backlog for __Ready to Apply__
 
-- Revise resume
-- Update Ghost Blog
-- Scout Jobs on other sites.
-- Revise GitHub Cover letter.
-- Research CC courses.
 - Create Coaching Log for Barnes and Noble Head Cashiers
 - Revise resume to meet Innovate Pasadena standards
 - Sync online job site resumes (indeed, linkedin, dice) to match current
