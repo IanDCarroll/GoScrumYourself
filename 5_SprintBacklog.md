@@ -14,6 +14,7 @@ Sprint BackLog
    - Able to flag if mentor is needed or if new mentor is needed
    - Able to provide comments for what methods were tried
    - Able to show whether the method is in progress, succeeded, or needs another approach
+   - Has Name, Current Behavior: and Skill to be Coached For: fields
   - Has Sprint Number on sheet set. -2-
   - Team Incremment page for progress made. -5-
 

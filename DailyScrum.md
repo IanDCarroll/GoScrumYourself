@@ -6,6 +6,14 @@ Questions template:
 
 
 
+8/15/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Complete Job Application Definition of Done Checklist
+2. What will I do today to help meet the Sprint Goal?
+  - Revise Resume to IP standards
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - No Blockers.
+
 8/14/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Blog Post
