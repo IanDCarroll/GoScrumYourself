@@ -6,6 +6,21 @@ Questions template:
 
 
 
+8/14/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Blog Post
+  - Sprint 2 Review
+  - Sprint 2 retrospective
+  - Sprint 3 Planning
+2. What will I do today to help meet the Sprint Goal?
+  - Definition of Done Application Checklist
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - No blockers.
+
+***
+Sprint 3 ^
+***
+
 8/13/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Backlog grooming

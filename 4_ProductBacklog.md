@@ -1,6 +1,7 @@
 Product Backlog for __Ready to Apply__
 
 - Sync online job site resumes (indeed, linkedin, dice) to match current -5-
+- Create application record sheet - resume version - notes - status - follow-up needed?
 - Create separate resumes for Business Analyst and Junior Dev positions.
 - Create profiles/ get familiar with other jobhunting sites (Stackoverflow, angelList, dice, builtinLA for PO roles)
 - Talk to PCC professors about classes and waiving prerequisites
