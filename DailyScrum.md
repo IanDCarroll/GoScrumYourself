@@ -4,7 +4,14 @@ Questions template:
 3. Do I see any blockers that prevent me from meeting the Sprint Goal?
 
 
-
+8/16/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - went to a Ruby Meetup
+2. What will I do today to help meet the Sprint Goal?
+  - Revise Resume
+  - Start on Coaching Log
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - Distractions, which I will need to apply discipline and not succumb. Also I'm alone for the next few days which, as long as I don't get in my own way, should allow more time to be productive.
 
 8/15/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
