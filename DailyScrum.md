@@ -6,6 +6,18 @@ Questions template:
 
 
 
+8/18/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Apply to a job
+  - Write more Doccumentation
+  - submit a pull request for FullStackLA main webpage to fix a typo.
+2. What will I do today to help meet the Sprint Goal?
+  - complete coaching log
+  - apply to a job
+  - post a blog about pairing into the unknown
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - no blockers.
+
 8/17/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - Revised Resume
