@@ -4,6 +4,20 @@ Questions template:
 3. Do I see any blockers that prevent me from meeting the Sprint Goal?
 
 
+
+
+8/17/16
+1. What did I do Yesterday that helped meet the Sprint Goal?
+  - Revised Resume
+  - Wrote doccumentation on FullStack LA Map page
+2. What will I do today to help meet the Sprint Goal?
+  - Apply to a job
+  - Work on Coaching Log
+  - Write more doccumentation
+  - Blog on Pair Programming
+3. Do I see any blockers that prevent me from meeting the Sprint Goal?
+  - Maybe I don't have enough time to do all this, but I'll get done what I can.
+
 8/16/16
 1. What did I do Yesterday that helped meet the Sprint Goal?
   - went to a Ruby Meetup
