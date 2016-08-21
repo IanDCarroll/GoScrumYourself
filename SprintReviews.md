@@ -1,7 +1,27 @@
 
-__Velocity Change Log:__ +28, 24
+__Velocity Change Log:__ -12, +28, 24
+
+__Sprint 3 Velocity:__ 40
+
+__Sprint 3 Review:__
+
+This sprint was the fist that I wasn't able to get every last task done. Par of the reason for this was the time spent going to extra meetups which due to my work schedule, I previously couldn't go to. However, those meetups provided me with a great ammount of additional expereince, and networking opportunities. Both of the Job Applications I have made came from meetups. This is significant.
+
+Unlike the expereince of searching online for jobs to apply to, performing the job of being a software developer has lead people I've just met to mention job openings and a desire to hire me. There are still hurdles. The first is I lack the number of years working in a "professional" environment. That will have to be circumvented. I obviouly can't come prepared with such experience in my first job. The second is that I lack hard skills with regards to frameworks and DevOps. And these will be themes to add to the backlog after I have the application process down, and am prepared to give a strong application.
+
+This sprint I met these goals:
+  - Exercise 23 of learn python the hard way
+  - A definition of done checklist for job applications
+  - A revised resume and coverletter strategy
+  - A coaching issue tracker for scrumming my current retail job.
+  - Applications to two jobs
+I also Coached and paired on Ruby and Rust; two languages I am unfamiliar with. I learned about SaltStack, Docker, and deployment at scale. I learned about some of the dangers and chaffing points of a career in development. And I made some friends.
+
+I failed to deliver on one job application, which will have to move to next sprint.
 
 __Sprint 2 Velocity:__ 52
+
+__Sprint 2 Review:__
 
 This sprint more than doubled the velocity of the last, but it took all the time I had. I barely had time to go to meetups, and I had no time at all for my android project, which has been sadly negected for a while now. Next sprint will need to be kept under 50.
 
