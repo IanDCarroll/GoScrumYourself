@@ -1,5 +1,17 @@
 Retrospectives:
 
+Sprint 3 - 8/14/16 - 8/20/16
+
+This sprint went well, but even with the decrease in velocity, I am still coming up short. And frankly, shorter than when my velocity was at 50+. This is the first sprint where I missed part of the delivery commitment. This is becoming a trend. I'll have to watch this.
+
+In the mean time, the first solution is to decrease the velocity again. If another decrease in velocity is needed next week, I will look into what obstacles are keeping me from moving forward and see about removing those.
+
+taking care of myself was a good move. It's better to do that than to try to hide problems. I'll track more carefully what consistently blocks me from higher velocity next sprint.
+
+Actions:
+1. commitment to 35
+2. watch for patterns of things that block my progress.
+
 Sprint 2 - 8/7/16 - 8/13/16
 
 This sprint was intense, but I still did it. Needless to say, It was close to the edge, and it dodn't feel as great as when I completed sprint 1 even though I got more than twice done. I'm over-exerting myself.
