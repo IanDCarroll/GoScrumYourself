@@ -6,6 +6,16 @@ Questions template:
 
 
 
+
+8/22/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint Planning
+  - Docs for fsla map website
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Write a blog on pairing the unknown
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Beyond fighting off the years of unoptimized emotional habits, no. But that's quite a job. And I imagine one that's here to stay. Developing new habits is hard for a person. It's got to be even harder for an organization, but it's the same process. Todo: Develop a set of tools to manage and guide my emotional habits toward the more productive and positive.
+
 8/21/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint Review
