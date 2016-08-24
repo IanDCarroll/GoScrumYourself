@@ -7,6 +7,16 @@ Questions template:
 
 
 
+8/24/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn Python the Hard Way ex 24
+  - Application Tracker
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Write documentation for fsla map page
+  - revise definition of done application checklist
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time, but at least I won't have to spend time managing my moods.
+
 8/23/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Wrote a blog on <a href="http://developingian.com/to-boldly-go/">pairing the unknown</a>
