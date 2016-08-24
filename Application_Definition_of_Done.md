@@ -10,12 +10,16 @@ __Job Application Definition of Done__
   - Tells a story
   - Meets requirements
   - Shows extra quality
+  - Shows ability to make connections and think
+  - Shows ability to use available resources to learn
 
 4. Resume has been tailored to speak to the company's need
   - Relevant skills highlighted
   - Every statement tells a story
   - Meets requirements
   - Shows extra quality
+  - Shows ability to make connections and think
+  - Shows ability to use available resources to learn
 
 5. Application is complete and submitted.
   - Word version of resume/cover letter submitted.
