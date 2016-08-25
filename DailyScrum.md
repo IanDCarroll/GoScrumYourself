@@ -7,6 +7,16 @@ Questions template:
 
 
 
+8/25/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Write doccumentation for fsla map page
+  - Revise Definition of Done Application Checklist
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Python the Hard Way ex25 & 26
+  - Apply to a job
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - time and the the requirements of chores/social maintenence/meetups
+
 8/24/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Learn Python the Hard Way ex 24
