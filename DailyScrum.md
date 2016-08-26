@@ -5,6 +5,13 @@ Questions template:
 
 
 
+8/26/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn Python the Hard Way ex25
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Python the Hard Way ex26
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - The sprint goal is in danger again. Thursday and Friday are not days I can count on for productivity. I would be able to meet the goal if I didn't end up spending the time talking with my wife. Don't get me wrong, talking with my wife is important, and I value it, but it eats opportunities to apply for jobs and get what needs to be done done. I also cannot communicate that to my wife. I have to be there for her. This will need to be addressed in the retrospective.
 
 
 8/25/16
