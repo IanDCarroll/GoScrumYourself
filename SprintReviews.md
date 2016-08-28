@@ -1,5 +1,23 @@
 
-__Velocity Change Log:__ -12, +28, 24
+__Velocity Change Log:__ -11, -12, +28, 24
+
+
+
+__Sprint 4 Velocity:__ 34
+
+__Sprint 4 Review:__
+
+What gets added:
+
+  - Job Application Tracker: Now I'll be able to follow up and record feedback so I can make changes to my plan based on what is expected.
+  - Blog post: Pairing into the Unkown with Rust. Describing how far you can get in a state of total ignorance. Learning to surf that wave without trpidation.
+  - Revised Application Definition of Done Checklist: The checklist includes questions about whether I have demonstrated 
+   1. An Ability to Think
+   2. An ability to Learn
+   3. An ability to Produce
+  - 3 Learn Python the Hard Way exercises.
+
+I also pair programmed and generally contributed useful things at FullStackLA, went to a new meetup to see what I could see, had a long meeting with Drew Adams about the vast field of the technology profession. A lot of extras happened that are going to influence my development.
 
 __Sprint 3 Velocity:__ 40
 
