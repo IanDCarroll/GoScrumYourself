@@ -4,6 +4,22 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+
+
+8/28/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint Review
+  - Sprint Retrospective
+  - Backlog Grooming
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Planning
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
+***
+Sprint 5^
+***
+
 8/27/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Learn Python the Hardway ex26.py
