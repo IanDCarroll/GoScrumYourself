@@ -1,24 +1,19 @@
 Sprint BackLog
 
- - Write a Blog "Pairing the unknown" -5-
+ 1. Revise resume (to include Drew Adams standards) -3-
+  - review resumes and make the style your own
+  - remember to tell a single story and give a focused 1-dimensional image
 
- - Write application tracker to manage applications, follow-ups, contacts, next steps, etc. -5-
-  - application date
-  - Contact Person
-  - Status
-  - next step
-  - Date action is needed
+ 2. Create separate resumes for ScrumMaster and Junior Dev positions. -3-
+  - tell a different 1-dimensional story for each image
 
- - Revise Definition of done Application checklist: -5-
-  - Distill the communication of strengths into a science.
-  - List of strngths and ways to communicate them.
+ 3. Learn Python the Hard Way -3- x3
 
- - Apply to Jobs -10-
-  - 2 Jobs 
-  - Definition of Done done
+ 4. Write a Blog "Retail Scrumming" -5-
 
- - Learn Python the Hard Way (3 excercises) -9-
-  - 3 exercises
+ 5. Apply to a Job -5-
+  - 1 quality application
+  - meets definition of done
 
 
-Total Commitment: 34
+Total Commitment: 25
