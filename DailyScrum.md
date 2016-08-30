@@ -5,6 +5,15 @@ Questions template:
 
 
 
+8/30/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Contributed to other OSS projects by helping them understand and implement scrum
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Revise Resume
+  - Create Separate Resumes
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - there is a danger I will check my e-mail or facebook, or my favorite GitHub repos and get sucked in to spending all of my time there instead of meeting the sprint goal. Not to say they are not valuable learning opportunities, but I need to focus on the tasks I need to accomplish first. Then after they're complete, I can check the social stuff.
+
 8/29/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint Planning
