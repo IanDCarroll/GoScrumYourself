@@ -5,6 +5,7 @@ Product Backlog for __Ready to Apply__
 - Create profiles/ get familiar with other jobhunting sites (Stackoverflow, angelList, dice, builtinLA for PO roles)
 - Write a Blog "How you do anything is How you do Everything - the self scrum"
 - Understand how to get a recruiter to set you up with the right job.
+- Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
 
 Ordered? Yes.
 Sprint-ready? Yes.

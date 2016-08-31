@@ -5,6 +5,16 @@ Questions template:
 
 
 
+
+8/31/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn Python the Hard way to ex29
+  - Outline and styling for resume revision
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Fill in resume details to complete dual resume revision
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Setting up the task I need to focus on so it's the first thing I see when I open the laptop is a help. Whatever I see first is what I will spend the day doing.
+
 8/30/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Contributed to other OSS projects by helping them understand and implement scrum
