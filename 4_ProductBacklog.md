@@ -8,6 +8,7 @@ __ready to apply__
 - Understand how to get a recruiter to set you up with the right job.
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
 __Developing problem-solving skills__
+- IRC
 - XP
  - TDD
  - Continuous Integration
@@ -22,9 +23,4 @@ __Elimintating knowlege gaps__
 - Salt
 - Docker
 - Unix/RedHat/OpenSUSE/centOS
-- IRC
 - Vim Adventures
-
-
-Ordered? Yes.
-Sprint-ready? Yes.
