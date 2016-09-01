@@ -6,6 +6,15 @@ Questions template:
 
 
 
+
+9/1/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Fill out resume details except for professional development
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Fill in professional development
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I'm behind schedule, but If I have to drop something, It'll be the blog post
+
 8/31/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Learn Python the Hard way to ex29
