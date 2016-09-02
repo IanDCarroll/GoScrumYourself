@@ -7,6 +7,21 @@ Questions template:
 
 
 
+9/2/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Revised resume
+  - Create two separate resumes for different applications
+  - Outline Blog post
+  - meet with other developers
+  - groom fsla backlog
+  - Discover GitHub milestones and what they can do for me.
+  - Revise pressing fsla docs issues
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete blog post
+  - Meet with Drew to identify knowlege gaps
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time, as always. But no.
+
 9/1/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Fill out resume details except for professional development
