@@ -9,11 +9,13 @@ Sprint BackLog
 
  3. Learn Python the Hard Way -3- x3
 
- 4. Write a Blog "Retail Scrumming" -5-
+ 4. Write a Blog "How to scrum on github with OSS volunteers" -5-
 
  5. Apply to a Job -5-
   - 1 quality application
   - meets definition of done
 
+ 6. Better define a list of knowledge gaps and technologies to master. Know your unknowns! (Dependent on a meeting with Drew Adams)-5-
 
-Total Commitment: 25
+
+Total Commitment: 30
