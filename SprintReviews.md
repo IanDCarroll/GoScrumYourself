@@ -1,6 +1,22 @@
 
-__Velocity Change Log:__ -11, -12, +28, 24
+__Velocity Change Log:__ -2, -11, -12, +28, 24
 
+
+
+
+__Sprint 4 Velocity:__ 32
+
+__Sprint 4 Review:__
+
+What gets added:
+ 
+ - Resume restyling and refactoring overhaul to make my resume much more artistically expressive and engaging.
+ - Seprerate resumes for Dev vs ScrumMaster roles
+ - Identified knowlege gaps to pull together a list of skills to become proficient in.
+ - Learn Python the Hard Way exercises. 
+ - Blog post: Scrum for OSS contributors. - A useful resource for github contributors pairing on fsla website
+
+I also worked on identifying user stories, and generating a backlog. I discovered the use of github milestones. I updated the docs to fix typos, and added needed links and features to the README.md. I also helped consult on two other projects thinking of ways to adopt Agile practices, and continued baby steps of introducing scrum to Barnes and Noble.
 
 
 __Sprint 4 Velocity:__ 34
