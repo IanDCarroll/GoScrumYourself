@@ -7,6 +7,16 @@ Questions template:
 
 
 
+9/4/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Finish blog post
+  - Sprint Review
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 5 Retrospective
+  - Sprint 6 Planning
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 9/3/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - meet with drew to identify knowlege gaps
