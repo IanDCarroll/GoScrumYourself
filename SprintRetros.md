@@ -1,6 +1,17 @@
 Retrospectives:
 
 
+__Sprint 4 - 8/28/16 - 9/3/16__
+
+The sprint was more Manageable. There are two things that happened that I should have been aware of:
+ 1. I wanted to get more things in than 25 points would allow, so I arteficially deflated the value of several tasks to fit. It was still a lot of work, so by the end of the sprint I had to increase their value, along with the value of a particularly large blog post. Idea structures held holographically in the mind can be glanced in a second, but writing those out in one dimension, or having another read the concepts that make up that structure *takes time* You can't judge how big an idea is based on whenter or not you can hold the whole thought in your head or not. You can hold thoughts of both simplicity and vast complexity there and they feel the same. Find another way to evaluate the magnitude of a task like that.
+ 2. I do a lot of things that are related to the sprint tangentially, but are not recorded in the sprint. These things take up time, and should be added to the sprint, even though they are disruptive. It will give me a clearer picture of my velocity when I add in these stories-of-opportunity, and help me make better choices about what I have to drop when I accept them.
+
+Actions:
+1. Commitment to 30
+2. Be careful in evaluating doccumentation and explaination tasks. You can bring up the info in a second, but relaying that info takes time.
+3. Add in stories-of-opportunity even though the practice is a little heinous to sprints. Be honest with yourself about this so that you can evaluate their effects and make more well-informed choices.
+
 __Sprint 4 - 8/15/16 - 8/27/16__
 
 This sprint dropped another story. So We're dropping the velocity again to an ammount I can handle. This is hard to do. I feel like I'm failing. But truthfully, I'm just facing known fact and planning with that limitation in mind. The reason for the dropped story was very similar to last sprint. Thursday evening and Friday are not reliably productive days. I do need to take care of my wife during that time, and the loss of that corner of the time box meant I could not fit the last day's work into it effectively.
