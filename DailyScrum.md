@@ -7,6 +7,18 @@ Questions template:
 
 
 
+9/5/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 5 retrospective
+  - Sprint 6 Planning
+  - read Chapter 7 of "Learning Agile"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Revise Blog post on OSS scrum
+  - Learn Python the Hard way
+  - Read Chapter 8 of "Learning Agile"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Breakfast with my wife may break my workflow and cause me to deliver less. I'll have to try to get thing done before breakfast. And be diligent enough to work even with a food coma.
+
 9/4/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Finish blog post
