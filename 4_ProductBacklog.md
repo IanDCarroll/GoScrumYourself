@@ -1,22 +1,21 @@
 Product Backlog for __Ready to Apply__
 
 
-- Sync online job site resumes (indeed, linkedin, dice) to match current -5-
-- Learn Python the Hard Way -3- x 5
-- Apply Jeckyl -8-
-- Write a Blog "Retail Scrumming" -5-
-- Apply -5-
+__Prep for conference with Python and TDD__
+- Rewrite Exercism test scripts to learn TDD
 __ready to apply__
+- Apply
 - Create profiles/ get familiar with other jobhunting sites (Stackoverflow, angelList, dice, builtinLA for PO roles)
 - Write a Blog "How you do anything is How you do Everything - the self scrum"
 - Understand how to get a recruiter to set you up with the right job.
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
 __Developing problem-solving skills__
 - Learn Python the Hard Way
+- TDD
 - Learn C the Hard Way
 - Learn Code the Hard Way
 - XP
- - TDD
+ - Read "Extreme Programming Explained: Embrace Change 2nd Edition" by Kent Beck
  - Continuous Integration
 - KanBan
 - Lean
@@ -25,6 +24,7 @@ __Developing problem-solving skills__
 - Object Oriented Programming
 - Functional Programming
 __Elimintating knowlege gaps__
+- Apply Jeckyl -8-
 - Hoodie
 - Meteor
 - JQuery
