@@ -7,6 +7,18 @@ Questions template:
 
 
 
+9/6/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Revised blog post on OSS Scrum
+  - Learn Python the Hard Way ex30
+  - Read Chapter 8 of "Learning Agile"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - read Chapter 9 of "Learning Agile"
+  - Learn Python the Hard Way ex31
+  - Ask about Resources for practicing TDD
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 9/5/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 5 retrospective
