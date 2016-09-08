@@ -5,7 +5,13 @@ Questions template:
 
 
 
-
+9/8/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Read chapter 9 and 10 of "Learning Agile"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Python the Hard Way ex35
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Giving myself a light goal today because I'm a bit of an emotional wreck. I don't know why I am, but I have to be realistic with what I can accomplish. If I get through 1 exercise, that'll be good. If I get through more, It'll be even better.
 
 9/7/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
