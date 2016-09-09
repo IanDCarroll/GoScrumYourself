@@ -5,6 +5,16 @@ Questions template:
 
 
 
+
+
+9/9/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn Python the hard way ex35
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Python the Hard Way ex36 & 37
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No Blockers, bad feelings have burned themselves out. Back to normal.
+
 9/8/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Read chapter 9 and 10 of "Learning Agile"
