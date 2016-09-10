@@ -7,6 +7,16 @@ Questions template:
 
 
 
+9/10/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn Python the Hard Way ex36
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Python the hard way ex37
+  - Sprint Review
+  - Sprint Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time, but I need to try anyway.
+
 9/9/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Learn Python the hard way ex35
