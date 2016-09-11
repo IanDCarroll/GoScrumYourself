@@ -1,7 +1,16 @@
 Retrospectives:
 
 
-__Sprint 4 - 8/28/16 - 9/3/16__
+__Sprint 6 - 9/4/16 - 9/10/16__
+
+The sprint took into account the book, and properly guaged, it turns out to be pretty much right on. So I can say that my average velocity is somewhere around 30. If I try to do less, I'll do more. If I try to do more, I'll do less. This gives me a good estimate for longer term planning. There are 16 exercises left in Learn Python the Hard way. However, they show an alarming tendency to increase in time-dificulty as I proceed. we'll have to see, but I might be able to fnish the book before the conference If I make it a priority.
+
+Emotional problems are becoming less constant, and more manageable when they do happen. Now that I have to courage to acknowlege they exist, I'm actually starting to understand how to cope. How to have compassion on myself, yet still focus on getting things done. Basically, how to manage myself sustainably, which is a remarkable thing.
+
+This is the first week with no new notes, just keep doing it, and keep doing the actions that corrected your behavior enough to bring you here.
+
+
+__Sprint 5 - 8/28/16 - 9/3/16__
 
 The sprint was more Manageable. There are two things that happened that I should have been aware of:
  1. I wanted to get more things in than 25 points would allow, so I arteficially deflated the value of several tasks to fit. It was still a lot of work, so by the end of the sprint I had to increase their value, along with the value of a particularly large blog post. Idea structures held holographically in the mind can be glanced in a second, but writing those out in one dimension, or having another read the concepts that make up that structure *takes time* You can't judge how big an idea is based on whenter or not you can hold the whole thought in your head or not. You can hold thoughts of both simplicity and vast complexity there and they feel the same. Find another way to evaluate the magnitude of a task like that.
