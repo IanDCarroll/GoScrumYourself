@@ -1,12 +1,26 @@
 
-__Velocity Change Log:__ -2, -11, -12, +28, 24
+__Velocity Change Log:__ 0, -2, -11, -12, +28, 24
 
 
+__Sprint 6 Velocity:__ 32
+
+__Sprint 6 Review:__
+
+What gets added:
+
+ - A better understanding of scrum in the ecosystem of other agile methodologies, especially in reference to XP.
+ - A revised blog on OSS scrumming.
+ - A better understanding of how to go about learning development and TDD.
+ - Learn Python the Hard way to exercise 36.
+
+I also had some very useful talks with developers and aquired feedback on directions to take from where I am. I need solid programming time. The devs I know are doubtful that I can pass a techinical interview. This is actually very good news, it neamns that they think i've gotten good enough to trick a company into embarassing myself by even giving me a technical interview. So solid! That's a new error message and it's fantastic. Future sprints are going to focus on preparing for the upcoming conferences in october, learning Python, TDD, and JS. Coding every day to be able to pass a technical interview, and really solve problems every day.
+
+A few things got dropped because reading "Learning Agile" took up about 8 points which I didn't include in the sprint planning. It looks like 30 points is a stable ammount for me to be using for my estimates. Learn Python the Hard Way will be the primary focus for the next 3 sprints.
 
 
-__Sprint 4 Velocity:__ 32
+__Sprint 5 Velocity:__ 32
 
-__Sprint 4 Review:__
+__Sprint 5 Review:__
 
 What gets added:
  
