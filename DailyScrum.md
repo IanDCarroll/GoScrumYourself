@@ -6,6 +6,16 @@ Questions template:
 
 
 
+9/13/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex38 "Doing Things to Lists"
+  - Complete ex39 "Dictionaries, Oh Lovely Dictionaries"
+  - Begin ex40 "Modules Classes and Objects"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex40 "Modules Classes and Objects"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No Blockers:
+
 9/12/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 7 Planning
