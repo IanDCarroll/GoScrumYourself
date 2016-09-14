@@ -6,6 +6,14 @@ Questions template:
 
 
 
+9/14/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex40 "Modules Classes and Objects"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex41 "Learning to Speak Object Oriented"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I do have quite a few meetings today, so I'll need to use the morning to be productive. Also the next three days are going to be swamped. I have my Dad flying in to see me Thursday, Friday and Saturday, then my Wife's company barbicue Saturday. Thursday in the morning will be all the time I have. Friday after work when I'm completely exhausted will be my only real chance to code that day. I'll need to get something done Saturday morning before the Barbicue but after Dad has left. This will be a challenge to code all three days.
+
 9/13/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex38 "Doing Things to Lists"
