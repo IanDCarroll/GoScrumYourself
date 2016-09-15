@@ -6,6 +6,14 @@ Questions template:
 
 
 
+9/15/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex41 "Learning to speak object oriented"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Start ex42 "Is-A, Has-A, Objects, and Classes"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers besides what's already been mentioned.
+
 9/14/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex40 "Modules Classes and Objects"
