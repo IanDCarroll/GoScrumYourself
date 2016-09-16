@@ -4,7 +4,13 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
-
+9/16/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Start ex42 "Is-A, Has-A, Objects, and Classes"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - work more on ex42
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Exhaustion. Forcing myself to work @ 2am because of family obligations, and then getting 2 hours of sleep because of that is no way to get things done. I'll be astonished If I do anything of even remote quality today.
 
 9/15/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
