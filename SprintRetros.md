@@ -1,6 +1,14 @@
 Retrospectives:
 
 
+__Sprint 7 - 9/11/16 - 9/17/16__
+
+This sprint went well. The goal this week was pretty straight-forward. No task switching. Just work on the workbook, and code every day. It went extrememly well, as this is one of the first sprints in a long time where everything that was supposed to get done got done. Not only that, but all was accomplished with a visit from my parents and a company barbique for my wife's company. So I did not have full hours to work. Most of the tasks were completed by Wednesday, which is what I will aim for in the future as clearly that pattern is a successful one. My opportunity for productivity is front-loaded on the week. 80% of what I do is accomplished before Thursday. Also, 30 - 35 points is becoming a very stable velocity, which I can track and make estimates based on.
+
+One of the major benefits to working this way is that I know how valuable my time is, and what I can realistically accomplish when I use that time for developing myself. I know myself in a way I never thought I could thanks to scrum. Before time was just infinite, I had "all the time in the world". and if I did not, I panicked and hid from whatever thing dared to demand completion within a limit. I also used to think very big ideas, and unrealistically would try to cram them into an impossibly narrow time window for completion. Just because I could envision the end product all-at-once did not mean that I could accomplish it all-at-once too. This was a massive stressor in learning to be a developer. Now, however, I can realistically plot my course and not stess because I know much better how long things take, and where I am on that journey. I also know that just because It can't be done in the time it takes to snap my fingers, no matter how hard I might try to make that happen, it doesn't mean it can't be done. I have realistic confidence, awareness and time management skills from using scrum. and they're still developing. So this is very exciting for me.
+
+Actions: Keep going.
+
 __Sprint 6 - 9/4/16 - 9/10/16__
 
 The sprint took into account the book, and properly guaged, it turns out to be pretty much right on. So I can say that my average velocity is somewhere around 30. If I try to do less, I'll do more. If I try to do more, I'll do less. This gives me a good estimate for longer term planning. There are 16 exercises left in Learn Python the Hard way. However, they show an alarming tendency to increase in time-dificulty as I proceed. we'll have to see, but I might be able to fnish the book before the conference If I make it a priority.
