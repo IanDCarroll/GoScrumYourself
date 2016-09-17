@@ -4,6 +4,23 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+
+
+
+***
+Sprint 8^
+***
+
+9/17/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Work more on ex42 "Is-a, Has-a, Objects, and Classes"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex42 "Is-a, Has-a, Objects, and Classes"
+  - Sprint 7 Review
+  - Sprint 7 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 9/16/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Start ex42 "Is-A, Has-A, Objects, and Classes"
