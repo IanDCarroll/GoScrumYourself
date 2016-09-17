@@ -9,7 +9,7 @@ Product Features:
 - Job Application Tracker
 - Applied for 8 jobs
 - 4 Blog posts
-- Learn Python the Hard Way exercises to ex36
+- Learn Python the Hard Way exercises to ex42
 - Know PCC courses
 - Know both ideal agile working environment and common pathologies
 - Know the general field of technology work and how those professions fit together in DevOps

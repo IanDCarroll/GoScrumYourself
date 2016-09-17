@@ -1,6 +1,23 @@
 
-__Velocity Change Log:__ 0, -2, -11, -12, +28, 24
+__Velocity Change Log:__ +1, -2, -11, -12, +28, +24
 
+
+
+
+__Sprint 7 Velocity:__ 33
+
+__Sprint 7 Review:__
+
+What gets added:
+
+ - 6 excercises from Learn Python the Hard Way, up to exercise 42.
+ - A better grasp of object orientation and how it fits into the general schema of development
+ - A new habit of coding every day.
+ - Improved confidence in my ability to not only talk and colaborate about projects, but also get down and do the work solo.
+
+I had a very fruitful meeting with a fellow developer who helped me optimise my workflow and start having me think in more professinal detail regarding the steps of working on team projects with github.
+
+I intended for this time to also be about TDD, but that will need to wait based on how the python book is going. I am confident in my ability to learn TDD and begin applying it as a development technique to my workflow in a natural way, but it will have to wait about 2 or maybe 3 weeks depending on the intensity of the last 10 exercises in Learn Python the Hard Way. In either case, I will be prepared for the upcoming conference. Post conference, I'm thinking that getting through Learn Ruby the Hard Way may be a good thing to try, that way I can have some Ruby for conference 2, which is ruby-centric. This is an option for me. Other options may include setting up TDD as part of my workflow, learning Django, Docker, and possibly integrating more of the SciPy stack into my Python. I'll never know less than I know right now, so I'll make that decision at the last responsible moment.
 
 __Sprint 6 Velocity:__ 32
 
