@@ -6,6 +6,18 @@ Questions template:
 
 
 
+9/18/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete ex42.py
+  - Sprint 7 Review
+  - Sprint 7 Retropesctive
+  - Blog post "Scrum at the Book Store"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 8 Planning
+  - Get started on ex43 "Basic Object-Oriented Analysis and Design"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I spent a lot of time last night writing a blog post because I got done a little early. This may actually impact my velocity. I'll have to be careful about pushing more work in during a sprint. I'm happy with the post though, but it looks like it's going to cost me.
+
 
 ***
 Sprint 8^
