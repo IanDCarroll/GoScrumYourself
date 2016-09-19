@@ -16,8 +16,8 @@ __ready to apply__
  - Dice
 - Apply
 - Create profiles/ get familiar with other jobhunting sites (Stackoverflow, angelList, dice, builtinLA for PO roles)
-- Write a Blog "Retail Scrumming" -5-
 - Write a Blog "How you do anything is How you do Everything - the self scrum"
+- Write a Blog "In Line at the Kanban Cafe"
 - Understand how to get a recruiter to set you up with the right job.
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
 __Developing problem-solving skills__
@@ -35,6 +35,7 @@ __Elimintating knowlege gaps__
 - JQuery
 - Angular
 - Node
+- Django
 - Rails w/ Ruby
 - Virtual Machines
 - Salt
@@ -47,7 +48,7 @@ __Elimintating knowlege gaps__
  - Intercangeable parts of a Linux distro
  - Shell scripting
 - A+ familiarity
-- Netowrk Protocol
+- Network Protocol
  - OSI Model
  - DoD Model
  - DHCP
