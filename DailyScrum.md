@@ -6,6 +6,15 @@ Questions template:
 
 
 
+9/19/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 8 Planning
+  - started ex43 "Basic Object-Oriented Analysis and Design"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex43 "Basic Object-Oriented Analysis and Design"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I had a weird laziness bout this morning, but I should be fine. In years past, I had a tendency to sleep in as a way of hiding from problems I didn't want to face. The code in ex43 is very different from what I've worked with before, so I fell into the old habit of shying away from it. I have found more of a groove now, though. I just have to be aware that this is a habit of mine, and not let it interfere with my productivity.
+
 9/18/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete ex42.py
