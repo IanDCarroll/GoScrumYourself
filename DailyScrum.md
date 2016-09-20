@@ -6,6 +6,15 @@ Questions template:
 
 
 
+9/20/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex43.py "Basic Object-Oriented Analysis and Design"
+  - Complete ex44.py "Inheritance vs. Competition"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex45.py "You Make a Game"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - There is a high chance I will not be able to complete this, because there's still so much text and description to write. I'll focus on the code first, and meeting the requirements. If I run out of time, I'm moving on. The most important thing is that I code, not write a novel.
+
 9/19/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 8 Planning
