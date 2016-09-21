@@ -4,7 +4,13 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
-
+9/21/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex45/ "You Make a Game"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - start ex46/ "A Project Skeleton"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I will only have maybe an hour to work this morning. Then I have to go to work. Then I have to try to meet people at the meetup if I can. It'll be a busy day.
 
 9/20/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
