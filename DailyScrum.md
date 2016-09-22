@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+
+
+
+9/22/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Start ex46/ "A Project Skeleton"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex46 "A Project Skeleton"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It depends on how involved I get with the study drills, but I'll try to meet them without too much fuss.
+
 9/21/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex45/ "You Make a Game"
