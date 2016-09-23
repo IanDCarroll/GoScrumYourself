@@ -7,6 +7,16 @@ Questions template:
 
 
 
+9/23/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex46 "A Project Skeleton"
+  - Complete ex47 "Automated Testing"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Start ex48 "Advanced User Input"
+  - Write a blog post "How solve a problem without even knowing anything - a nook adventure."
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. Everything from now forward is gravy.
+
 9/22/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Start ex46/ "A Project Skeleton"
