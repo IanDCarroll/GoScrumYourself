@@ -7,6 +7,21 @@ Questions template:
 
 
 
+***
+Sprint 9^
+***
+
+9/24/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Start ex48 "Advanced User Input"
+  - write a blog post "Scrum in 300 seconds or less"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Continue ex48 "Advanced User Input"
+  - Sprint 8 Review
+  - Sprint 8 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - There will not be much more time considering I have a mid-shift that breaks up my time today, but the only thing that might be droppe was an extra that was added on later anyway. So no big deal if that doesn't get done.
+
 9/23/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex46 "A Project Skeleton"
