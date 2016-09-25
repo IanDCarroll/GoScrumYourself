@@ -1,8 +1,20 @@
 
-__Velocity Change Log:__ +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +11, +1, -2, -11, -12, +28, +24
 
 
+__Sprint 8 Velocity:__ 44
 
+__Sprint 8 Review:__
+
+What gets added:
+
+ - 5 exercises from Learn Python the Hard Way
+ - A better understanding of TDD
+ - More experience with OOP
+ - A blog post: Scrum at the Book Store
+ - A blog post: Scrum explained in 300 seconds or less
+
+This was a very productive week. The first of the two blog posts turned out to be quite popular. I do have to spend more time working on TDD, and how to make it a habit, but in general, the answer seems to be, "just do it and you'll never understand how you did without it." I also learned about standing up to pressures from clients, Knowledge work when you have none, that pair programming needs 2 willing participants to take hold. And that I can talk pretty well. I hope to get the hard skills down more and more, because I feel that once I have those, I have a job. Most everything else is in place.
 
 __Sprint 7 Velocity:__ 33
 

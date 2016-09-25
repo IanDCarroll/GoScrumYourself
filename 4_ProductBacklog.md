@@ -7,8 +7,7 @@ Product Backlog for __Ready to Apply__
 
 __Prep for conference with Python and TDD__
 - Learn Python the Hard Way
-- Rewrite Exercism test scripts to learn TDD
-- read TDD blogs/ git hub repos
+- Write a blog "On-site knowledge work when you don't have any: A Nook Adventure"
 __ready to apply__
 - Sync online job site resumes (indeed, linkedin, dice) to match current -5-
  - LinkedIn
@@ -22,9 +21,11 @@ __ready to apply__
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
 __Developing problem-solving skills__
 - TDD
+ - Rewrite Exercism test scripts to learn TDD
+ - read TDD blogs/ git hub repos
 - Learn Code the Hard Way
-- Design Patterns
 - Object Oriented Programming
+- Design Patterns
 - Functional Programming
 - Learn C the Hard Way
 - Vim Adventures
