@@ -1,6 +1,12 @@
 Retrospectives:
 
 
+__Sprint 8 - 9/18/16 - 9/24/16__
+
+This sprint saw a ramping in productivity. I got much more done than anticipated. This is primarily due to a lack of blockers and a focus on uninterrupted productive time during my most productive days: Monday through Wednesday. I have one more week to complete Learn Python the Hard Way before the conference. Then I'll be prepared, and hopefully will be able to make the call about whether to continue with Python there, or pivot to Ruby in preparation for the conference after that.
+
+Actions: Keep going.
+
 __Sprint 7 - 9/11/16 - 9/17/16__
 
 This sprint went well. The goal this week was pretty straight-forward. No task switching. Just work on the workbook, and code every day. It went extrememly well, as this is one of the first sprints in a long time where everything that was supposed to get done got done. Not only that, but all was accomplished with a visit from my parents and a company barbique for my wife's company. So I did not have full hours to work. Most of the tasks were completed by Wednesday, which is what I will aim for in the future as clearly that pattern is a successful one. My opportunity for productivity is front-loaded on the week. 80% of what I do is accomplished before Thursday. Also, 30 - 35 points is becoming a very stable velocity, which I can track and make estimates based on.
