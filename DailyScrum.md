@@ -7,6 +7,17 @@ Questions template:
 
 
 
+9/25/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Continue ex48 "Advanced User Input"
+  - Sprint 8 Review
+  - Sprint 8 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 9 Planning
+  - Continue ex48 "Advanced User Input"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I'm feeling a supreme lack of confidence in my ability to figure out this test drive in ex48. I'll need some dedicated time to work on it. So I'll peck at it a little tonight, and really blast away at it Tomorrow morning.
+
 ***
 Sprint 9^
 ***
