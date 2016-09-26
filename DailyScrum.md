@@ -5,7 +5,15 @@ Questions template:
 
 
 
-
+9/26/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 9 Planning
+  - Continue ex48 "Advanced User Input"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex48 "Advanced User Input"
+  - Start ex49 "Making Sentences"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. I worry that a lot of negativity from friends will hurt my velocity, but I feel the task is reasonable, and will still not endager the Sprint Goal. There just won't be a lot of extras like last sprint.
 
 9/25/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
