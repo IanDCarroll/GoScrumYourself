@@ -8,6 +8,50 @@ Product Backlog for __Ready to Apply__
 __Prep for conference with Python and TDD__
 - Learn Python the Hard Way
 - Write a blog "On-site knowledge work when you don't have any: A Nook Adventure"
+__Elimintating knowlege gaps__
+- Languages
+ - Learn Python the Hard Way
+ - Learn Ruby the Hard Way
+ - Free Code Camp
+- Frameworks
+ - Django
+ - Rails
+ - Node
+ - Meteor
+ - React
+ - Angular
+ - JQuery
+- Deployment Solutions
+ - Virtual Machines
+ - Salt
+ - Docker
+ - Unix/RedHat/OpenSUSE/centOS
+ - The Linux Standard Base
+ - File Systems
+ - Databases
+ - Posix
+ - Intercangeable parts of a Linux distro
+ - Shell scripting
+- Network Protocol
+ - OSI Model
+ - DoD Model
+ - DHCP
+ - DNS
+ - TCP/IP
+ - FTP
+ - HTTP
+- Data structures
+- Big O
+__Developing problem-solving skills__
+- TDD
+ - Rewrite Exercism test scripts to learn TDD
+ - read TDD blogs/ git hub repos
+- Learn Code the Hard Way
+- Object Oriented Programming
+- Design Patterns
+- Functional Programming
+- Learn C the Hard Way
+- Vim Adventures
 __ready to apply__
 - Sync online job site resumes (indeed, linkedin, dice) to match current -5-
  - LinkedIn
@@ -19,43 +63,13 @@ __ready to apply__
 - Write a Blog "In Line at the Kanban Cafe"
 - Understand how to get a recruiter to set you up with the right job.
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
-__Developing problem-solving skills__
-- TDD
- - Rewrite Exercism test scripts to learn TDD
- - read TDD blogs/ git hub repos
-- Learn Code the Hard Way
-- Object Oriented Programming
-- Design Patterns
-- Functional Programming
-- Learn C the Hard Way
-- Vim Adventures
-__Elimintating knowlege gaps__
-- Apply Jeckyl -8-
-- Hoodie
-- Meteor
-- JQuery
-- Angular
-- Node
-- Django
-- Rails w/ Ruby
-- Virtual Machines
-- Salt
-- Docker
-- Unix/RedHat/OpenSUSE/centOS
- - The Linux Standard Base
- - File Systems
- - Databases
- - Posix
- - Intercangeable parts of a Linux distro
- - Shell scripting
-- A+ familiarity
-- Network Protocol
- - OSI Model
- - DoD Model
- - DHCP
- - DNS
- - TCP/IP
- - FTP
- - HTTP
-- Data structures
-- Big O
+- Write resume in HTML and post it
+__Expanding Domains__
+- Rust
+- C
+- C++
+- Android Java
+- Swift
+- Elixyr
+- Erlang
+- Haskell
