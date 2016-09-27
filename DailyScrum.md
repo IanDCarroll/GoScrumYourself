@@ -5,6 +5,16 @@ Questions template:
 
 
 
+9/27/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex48 "Advanced User Input"
+  - Complete ex49 "Making Sentences"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex50 "Your First Website"
+  - Start ex51 "Getting Input from a Browser"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It's risky, but I'm running out of time. My best chance to complete these last three assignments is with decent blocks of time. That can only happen today and tomorrow. After that, Thursday and Friday are lower productivity days, so I can't rely on them.
+
 9/26/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 9 Planning
