@@ -5,6 +5,19 @@ Questions template:
 
 
 
+
+9/29/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex51 "Getting input from the browser"
+  - Start ex52 "The Start of Your Web Game"
+  - Sync LinkedIn profile with resume
+  - Network like a beast
+  - Get feedback for my scrum-at-the-book-store experiment
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex52 "The Start of Your Web Game"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I'm a little frightened to make this commitment, because I don't know how involved this last project gets. I've heard some crazy scary stories, but I'll commit anyway. I will complete Learn Python the Hard Way TODAY!
+
 9/28/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex50 "Your First Website"
