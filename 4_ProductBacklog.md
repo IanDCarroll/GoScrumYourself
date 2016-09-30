@@ -8,6 +8,9 @@ Product Backlog for __Ready to Apply__
 __Prep for conference with Python and TDD__
 - Learn Python the Hard Way
 - Write a blog "On-site knowledge work when you don't have any: A Nook Adventure"
+__Prep for Next conference__
+- Test Drive Learn Ruby the Hard Way
+- Open 4 pull requests for Hacktoberfest
 __Elimintating knowlege gaps__
 - Languages
  - Learn Python the Hard Way
