@@ -6,6 +6,16 @@ Questions template:
 
 
 
+9/30/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - "Complete" Learn Python the Hard Way
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Link 300s Scrum to places that need it
+  - fix user-story milestone on github fsla project.
+  - Write a blog about "getattr() for testing unnamed python objects"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. I'm done early, so I can take some time to blog and tidy up. Needed stuff, really.
+
 9/29/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex51 "Getting input from the browser"
