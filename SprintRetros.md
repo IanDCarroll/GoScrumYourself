@@ -1,6 +1,12 @@
 Retrospectives:
 
 
+__Sprint 9 - 9/25/16 - 10/1/16__
+
+It was a very productive sprint. There was a major concern that a resurgeance in empotional and domestic upheaval would wreck the velocity and cause Learn Python the Hard Way to come in too late for the conference, but everything got done. Moreover, the extra time was useful for cleaning up some pesky chores and technical debt. Still, I did take a hit because of that. It has been two sprints of peace before this one, and now I can see it does have an impact. I can expect to loose at least 3 points when they happen.
+
+Actions: It can be like walking on egg shells, but you have to manage your mood and the moods of those around you. Them getting you down will add months at least to the end-goal of becoming a competent and employed developer. Trouble is, I have no precise way to go about accomplishing this. I'll just have to try to be useful and competent and hoe that mitigates things.
+
 __Sprint 8 - 9/18/16 - 9/24/16__
 
 This sprint saw a ramping in productivity. I got much more done than anticipated. This is primarily due to a lack of blockers and a focus on uninterrupted productive time during my most productive days: Monday through Wednesday. I have one more week to complete Learn Python the Hard Way before the conference. Then I'll be prepared, and hopefully will be able to make the call about whether to continue with Python there, or pivot to Ruby in preparation for the conference after that.
