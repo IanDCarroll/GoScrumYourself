@@ -1,6 +1,19 @@
 
-__Velocity Change Log:__ +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 9 Velocity:__ 41
+
+__Sprint 9 Review:__
+
+What gets added:
+
+ - Learn Python the Hard Way
+ - A better understanding of frameworks, tests, and how they work together
+ - Improvements to my social netowrking
+ - improvements in documentation
+
+I have officially leaned python the hard way. Up next will be a week of conference time, probably it will be spent working on python tdd in classes there, or in contributions to open source. October is Hacktoberfest. Scarry to dare, but this is a useful shove in the right direction. I hope I get a t-shirt!
 
 __Sprint 8 Velocity:__ 44
 
