@@ -16,6 +16,8 @@ __For new Scrummers:__
 
 Please feel free to ask any questions! The world of scrum and agile might seem intimidating. It is likely a very different work mindset than you're used to. But it is also a much friendlier and more productive work mindset, and one I'd very much encourage you to wrap your head around. 
 
+Here's a quick blog post explaining <a href="http://developingian.com/scrum-explained-in-300-seconds-or-less/">Scrum in 300 seconds or less</a>.
+
 It is not a language. It is not a toolset. It is a simple framework on which we can hang toolsets to make them neat, tidy, low mantainence, more productive and genrally happy. 
 
 Trello is cool. Jira is cool, but all you need is your brain, post-it notes and a wall to scrum. The tool can be useful, but...
