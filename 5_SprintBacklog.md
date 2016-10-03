@@ -1,13 +1,10 @@
-Sprint BackLog
+Sprint Goal
 
- - Learn Python the Hard Way ex48 The one where I test drive a problem -5-
+ - Test Drive 2 Learn Ruby the Hard Way exercises - 5 -
 
- - Learn Python the Hard Way ex49 the one where I write a test for existing code -5-
+for each day of the conference (5): 
+ - Pair with someone and push the result to github - 3 -
+ - Tweet something cool - 1 -
+ - Make friends and geek out about Agile/Scrum/TDD/whatever! 
 
- - Learn Python the Hard Way ex50 "Your First Website" -8-
-
- - Learn Python the Hard Way ex51 "Getting Input from a Browser" -8-
-
- - Learn Python the Hard Way ex52 "The Start of your Web Game" -8-
-
-Total Commitment: 34
+Total Commitment: 30

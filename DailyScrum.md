@@ -4,7 +4,18 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/2/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 9 Review
+  - Sprint 9 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 10 Planning
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers, other than not knowing what to do with the sprint. A lot of time at conference. Planning and personal life has convinced me that in order to maintain my momentum, I'll need to pair back the commitment to 30 points. I don't know what will happen this week in that regard. The uncertainty alone will create cognitive overhead which will decrease my velocity, so I prepare for a rough one, personally.
 
+***
+Sprint 10^
+***
 
 10/1/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
