@@ -4,6 +4,19 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/3/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 10 Planning
+  - Made a pair programming pull request from the conference
+  - Tweeted something cool
+  - Made friends
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Pair w/someone to make a commit from the conference
+  - tweet something cool
+  - make friends
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 10/2/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 9 Review
