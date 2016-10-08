@@ -1,6 +1,15 @@
 Retrospectives:
 
 
+__Sprint 10 - 10/2/16 - 10/8/16__
+
+There were major disruption to what is normal during this sprint: There was a 5 day conference, so most of the time was geared toward socializing and making friends (some call this networking, but I call it making friends). The other major incident was that my computer was damaged by someone I trust. This has made me take some serious time off of the project to stop that from happening again.
+
+actions:
+ 1. If there is any more violence, to defend my safety and the velocity of the project, I have to leave.
+ 2. Make sure to be vulnerable and let my trusted parter know how deeply I am sorry for their pain, and my part in producing it. The hope here is that by doing this, I can start to repair the damage.
+ 3. It is my impression that both of these points have been communicated. I need to take care of my personal relationships so that they don't become blockers to my progress, and also just because it's the right thing to do.
+
 __Sprint 9 - 9/25/16 - 10/1/16__
 
 It was a very productive sprint. There was a major concern that a resurgeance in empotional and domestic upheaval would wreck the velocity and cause Learn Python the Hard Way to come in too late for the conference, but everything got done. Moreover, the extra time was useful for cleaning up some pesky chores and technical debt. Still, I did take a hit because of that. It has been two sprints of peace before this one, and now I can see it does have an impact. I can expect to loose at least 3 points when they happen.
