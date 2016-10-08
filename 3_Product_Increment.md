@@ -1,6 +1,7 @@
 Product Features:
 
 - Python
+- Open Source Developer
 - Agile Development
 - How to operate in a state of ignorance
 - Writing good documentation and stories
@@ -14,6 +15,7 @@ Product Features:
 - Job Application Tracker
 - Applied for 8 jobs
 - 6 Blog posts
+- 3 Python module repos
 
 
 

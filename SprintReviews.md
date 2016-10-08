@@ -1,6 +1,22 @@
 
-__Velocity Change Log:__ -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 10 Velocity:__ 39
+
+__Sprint 10 Review:__
+
+What gets added:
+ - Make a bunch of friends by pairing and geeking out about Agile at Star West
+ - Tweet voraciously about my expereince so that I share wqhat I'm learning to the OSS community
+ - Create 3 new repositories for python modules:
+  1. twilight.sparkle CLI text color module
+  2. simplClock counter module
+  3. random GPS module for generating mock data in map websites
+ - made my first contribution to a Open Source Project used by more than just me and my friends.
+
+What got dropped:
+ Start TDD with Learn Ruby the Hard Way
 
 __Sprint 9 Velocity:__ 41
 

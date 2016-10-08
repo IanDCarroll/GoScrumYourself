@@ -9,6 +9,8 @@ Questions template:
   - organize follow-up
  2. __What will I do today to help meet the Sprint Goal?__
   - finish sparkle.py
+  - Sprint 10 review
+  - Sprint 10 retrospective
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
   - I'm not going to get to TDD with ruby this sprint. It'll have to go on next sprint.
 
