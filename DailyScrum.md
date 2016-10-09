@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/9/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - finish sparkle.py
+  - Sprint 10 Review
+  - Sprint 10 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 11 Planning
+  - test drive excerise 1 in Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - There is a possibility I could get interrupted, unfortunately for now, the fix cannot happen quickly, but I am aware of the problem, and have made it a priority to unblocking my progress.
+
 10/8/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - organize follow-up
