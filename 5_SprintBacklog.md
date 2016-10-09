@@ -1,5 +1,0 @@
-Sprint Goal
-
-
-
-Total Commitment: 

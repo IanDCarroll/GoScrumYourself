@@ -2,18 +2,11 @@ Product Backlog for __Ready to Apply__
 
 
 
-
-
-
-__Prep for conference with Python and TDD__
-- Learn Python the Hard Way
-- Write a blog "On-site knowledge work when you don't have any: A Nook Adventure"
 __Prep for Next conference__
 - Test Drive Learn Ruby the Hard Way
 - Open 4 pull requests for Hacktoberfest
 __Elimintating knowlege gaps__
 - Languages
- - Learn Python the Hard Way
  - Learn Ruby the Hard Way
  - Free Code Camp
 - Frameworks
@@ -63,6 +56,7 @@ __ready to apply__
 - Apply
 - Create profiles/ get familiar with other jobhunting sites (Stackoverflow, angelList, dice, builtinLA for PO roles)
 - Write a Blog "How you do anything is How you do Everything - the self scrum"
+- Write a blog "On-site knowledge work when you don't have any: A Nook Adventure"
 - Write a Blog "In Line at the Kanban Cafe"
 - Understand how to get a recruiter to set you up with the right job.
 - Refactor resume so that it serves a dual role as working code! (fun, nice-to-have, not priority)
