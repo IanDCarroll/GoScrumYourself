@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/10/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 11 Planning
+  - Test Drive exercise 1 through 3 in Learn Ruby the Hard Way
+  - Read through chapter 6 of Pair Programming Illuminated
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Test Drive exercise 4 in Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No Blockers. If I get this excercise done today, and 2 tomorrow I'll have made the sprint goal with plenty of time.
+
 10/9/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - finish sparkle.py
