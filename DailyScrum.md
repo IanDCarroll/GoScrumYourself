@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/12/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete exercise 6
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Attend FullStack LA meetup at Pivotal Labs and try to keep up :)
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - The sprint goal is complete! Woot! So I think I can add 2 things:
+   - Exercise 7
+   - Blog on how to scrum yourself
+
 10/11/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Test Drive exercise 4
