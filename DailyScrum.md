@@ -4,6 +4,14 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/14/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete exercise 7
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - work on FullStack LA pull request template issue
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I'm not sure how much time this will take, but I'm going to try to complete it in 2 hours. No blockers besides the unknown.
+
 10/13/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Attend FullStack LA at Pivotal Labs and submitted a pull request
