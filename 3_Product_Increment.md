@@ -5,6 +5,7 @@ Product Features:
 - Agile Development
 - How to operate in a state of ignorance
 - Writing good documentation and stories
+- How to run events when the real Product Owner doesn't show.
 
 - Resume 4.0
 - Role-specific resumes.
@@ -14,8 +15,8 @@ Product Features:
 - Definition of Done job application checklist 2.0
 - Job Application Tracker
 - Applied for 8 jobs
-- 6 Blog posts
+- 8 Blog posts
 - 3 Python module repos
-
+- 7 Test Driven exercises from Learn Ruby the Hard Way
 
 

@@ -1,6 +1,21 @@
 
-__Velocity Change Log:__ -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 11 Velocity:__ 45
+
+__Sprint 11 Review:__
+
+What gets added:
+
+ - 7 test-driven exercises from Learn Ruby the Hard Way
+ - Blog post: How to have an awesome meetup even if the host doesn't show.
+ - Contributed to FullStackLA with issue and pull request templates; learned another feature of github
+ - Contributed to Hoodie solo for a second time.
+ - Successfully facilitated a meetup.
+ - Introduced 3 different people to github through pair programming.
+
+At this rate of learning, I can expect to have a good grasp on Ruby by December 17. In the mean time, I need to also work on being social at meetups, contribute whatever I can to open source, work in teams and deliver value. As I ramp up there, I should find the softer skills meeting the hard skills of more formalized learning. But I definitely need to do both.
 
 __Sprint 10 Velocity:__ 39
 
