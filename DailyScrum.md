@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/15/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete FullStack LA pull request and issue template
+  - write a blog about getting the most out of a meetup when the host doesn't show.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 11 Review
+  - Sprint 11 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers
+
 10/14/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete exercise 7
