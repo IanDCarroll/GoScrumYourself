@@ -1,6 +1,16 @@
 Retrospectives:
 
 
+__Sprint 11 - 10/2/16 - 10/8/16__
+
+The sprint was more productive than expected, which is again encouraging. I have found that it's best to consistently give myself the slightly easier goal of 30 points and getting to around 40 by the end of the sprint rather than setting the goal at 40 and struggling to meet it. For whatever reason, 30 points is a significant number, but allows some slack to add on unpredictable extras without stress, and also gives me a sense of accomplishment when I consistently blow it out of the water.
+
+I have discovered also that my emotional state doesn't have too great an impact on my velocity. I can work even if I'm completely miserable. I have to work harder, but it doesn't seem to impact the velocity that much. I will say instead that my emptional state, sense of confidence and self-worth are desirable in and of themselves. I don't plan to live without them. They are still not just nice-to-haves. I can carry on through dark times, but those dark times can't last forever. I will eventually cave in. And that's the real danger of not maintaining my spirits, not the current velocity.
+
+Actions:
+ 1. Don't tiptoe around. Do what I will do. Acknowledge shortcomings, work to improve, but make no applolgies.
+ 2. Maintain and defend a cheerful spirit. Don't let circumstances rob you of it.
+
 __Sprint 10 - 10/2/16 - 10/8/16__
 
 There were major disruption to what is normal during this sprint: There was a 5 day conference, so most of the time was geared toward socializing and making friends (some call this networking, but I call it making friends). The other major incident was that my computer was damaged by someone I trust. This has made me take some serious time off of the project to stop that from happening again.
