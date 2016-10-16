@@ -4,6 +4,25 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+
+
+
+10/16/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 11 Review
+  - Sprint 11 Retrospective
+  - Read up to part 4 in "Pair Programming Illuminated"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 12 Planning
+  - Read more of "Pair Programming Illuminated"
+  - Start test driving ex8 "Printing, Printing" in Learn Ruby the hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I should be able to start ex8 at least. and I should be able to read at least a little of "Pair Programming Illuminated" today during breaks. My main blocker is my own lack of self-esteem, lack of confidence, and fear of failure. These are going to be things I will work on in addition to my skill building. In fact, they really should become a priority until I have habitually unlearned them.
+
+***
+Sprint 12^
+***
+
 10/15/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete FullStack LA pull request and issue template
@@ -70,6 +89,10 @@ Questions template:
   - test drive excerise 1 in Learn Ruby the Hard Way
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
   - There is a possibility I could get interrupted, unfortunately for now, the fix cannot happen quickly, but I am aware of the problem, and have made it a priority to unblocking my progress.
+
+***
+Sprint 11^
+***
 
 10/8/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
