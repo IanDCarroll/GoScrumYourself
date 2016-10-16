@@ -1,7 +1,7 @@
 Product Backlog for __Ready to Apply__
 
 
-
+- develop an appropriate level of self-confidence
 __Prep for Next conference__
 - Test Drive Learn Ruby the Hard Way
 - Open 4 pull requests for Hacktoberfest
