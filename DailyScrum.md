@@ -5,7 +5,16 @@ Questions template:
 
 
 
-
+10/17/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Started ex8
+  - Read through part 4 and into part 5 of "Pair Programming Illuminated"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete test drives of ex8, ex9 and ex10
+  - Start test driving ex11
+  - Read more of "Pair Programming Illuminated"
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. I need to set realistic goals for myself, not ones that are too padded because of fear of failure.
 
 10/16/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
