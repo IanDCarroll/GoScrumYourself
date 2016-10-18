@@ -3,7 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
-
+10/18/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Completed test Drives for ex8 - 10 and started ex11
+  - Read through all but appendecies of "Pair Programming Illuminated"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Go to the XP roundtable meetup, get feedback on TDD and Kanban
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Sleep. coffee. (no blockers.)
 
 10/17/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
