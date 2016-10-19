@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+
+10/19/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Got to XP roundtable meetup, get feedback on TDD and Kanban
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex11 in Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers.
+
 10/18/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Completed test Drives for ex8 - 10 and started ex11
