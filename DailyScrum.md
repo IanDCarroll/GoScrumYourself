@@ -4,6 +4,18 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/20/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex11 in Learn ruby the hard way with the help of Zack @ 8th Light, Machiko Yasuda and Justin Dorfman
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete ex12 and 13 in Learn Ruby the Hard Way
+  - Plan for SCNA conference
+  - report bug to Hoopla
+  - Take a look at Fullstack LA profiles on GitHub
+  - Tweet some interesting quotes from "Extreme Programming Explained" by Kent Beck
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I might get exhausted and have to stop. But Otherwise, I'm going for it.
+
 10/19/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Got to XP roundtable meetup, get feedback on TDD and Kanban
