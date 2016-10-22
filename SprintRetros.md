@@ -1,11 +1,20 @@
 Retrospectives:
 
 
-__Sprint 11 - 10/2/16 - 10/8/16__
+__Sprint 12 - 10/16/16 - 10/22/16__
+
+This sprint has been exhausting but productive. I am coming hard upon the limits that my feeble human mind can take, so I should remember what this feels like. Pushing past this point is not something that will be sustinably productive. I made some great progress. I also was able to maintain my self-confidence and create a workable level of ego. It's okay to be scared, but I will need to push past that and make sure to do more coding. I need to drive in pairs. I need to assert myself to contribute. so I must continue to maintain, build and defend a healthy sense of self-worth. It is a neccessary investment in my future. I know this ego is not myself, but I need an ego to engage the universe.
+
+Actions:
+ 1. Continue to not tiptoe around. Do things boldly and with self-possesiveness.
+ 2. Keep buiding an emotional savings account that will allow me to be bold and helpful.
+ 3. Drive in pair programming. Talk. But make sure to code as much as you talk (which is a lot).
+
+__Sprint 11 - 10/9/16 - 10/15/16__
 
 The sprint was more productive than expected, which is again encouraging. I have found that it's best to consistently give myself the slightly easier goal of 30 points and getting to around 40 by the end of the sprint rather than setting the goal at 40 and struggling to meet it. For whatever reason, 30 points is a significant number, but allows some slack to add on unpredictable extras without stress, and also gives me a sense of accomplishment when I consistently blow it out of the water.
 
-I have discovered also that my emotional state doesn't have too great an impact on my velocity. I can work even if I'm completely miserable. I have to work harder, but it doesn't seem to impact the velocity that much. I will say instead that my emptional state, sense of confidence and self-worth are desirable in and of themselves. I don't plan to live without them. They are still not just nice-to-haves. I can carry on through dark times, but those dark times can't last forever. I will eventually cave in. And that's the real danger of not maintaining my spirits, not the current velocity.
+I have discovered also that my emotional state doesn't have too great an impact on my velocity. I can work even if I'm completely miserable. I have to work harder, but it doesn't seem to impact the velocity that much. 10 to 25% at most. I will say instead that my emotional state, sense of confidence and self-worth are desirable in and of themselves. I don't plan to live without them. They are still not just nice-to-haves. I can carry on through dark times, but those dark times can't last forever. I will eventually cave in. And that's the real danger of not maintaining my spirits, not the current velocity.
 
 Actions:
  1. Don't tiptoe around. Do what I will do. Acknowledge shortcomings, work to improve, but make no applolgies.
