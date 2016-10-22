@@ -1,4 +1,4 @@
-Product Backlog for __Ready to Apply__
+Product Backlog
 
 
 - develop an appropriate level of self-confidence

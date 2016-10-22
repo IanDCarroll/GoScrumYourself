@@ -1,6 +1,22 @@
 
-__Velocity Change Log:__ +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 12 Velocity:__ 45
+
+__Sprint 12 Review:__
+
+What gets added:
+
+ - A much better understanding of the workflow of TDD
+ - An opportunity to pair program and test drive all at once
+ - 6 new exercises added to Learn Ruby the Hard Way
+ - Valuable leads on Apprenticeships at Pivotal Labs and 8th Light
+ - A very good conference expereience
+ - Interesting pull requests for FullStackLA
+ - Opened a sufficient number of pull requests for Hacktoberfest
+
+This week was productive. I am exhausted, but I will keep going and test-drive my development.
 
 __Sprint 11 Velocity:__ 45
 

@@ -1,11 +1,14 @@
 Product Features:
 
-- Python
+- GitHub
 - Open Source Developer
 - Agile Development
+- Pair Programming
+- Test Driven Development
 - How to operate in a state of ignorance
 - Writing good documentation and stories
 - How to run events when the real Product Owner doesn't show.
+- Python
 
 - Resume 4.0
 - Role-specific resumes.
