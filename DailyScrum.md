@@ -4,6 +4,14 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/21/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  -completed the Sprint Goal
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Have fun at Software Craftsmanship North America Conference
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Nothing is standing in my way of having fun, goddamnit!
+
 10/20/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex11 in Learn ruby the hard way with the help of Zack @ 8th Light, Machiko Yasuda and Justin Dorfman
