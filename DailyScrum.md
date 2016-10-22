@@ -3,10 +3,19 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+10/22/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Had fun at SCNA
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Participate in SCNA day of code
+  - Sprint Review
+  - Sprint Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Becomming scared and running screaming from the building or puking from nerves. Serious stage freight, even if it makes no logical sense. I got this!
 
 10/21/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
-  -completed the Sprint Goal
+  - completed the Sprint Goal
  2. __What will I do today to help meet the Sprint Goal?__
   - Have fun at Software Craftsmanship North America Conference
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
