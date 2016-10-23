@@ -3,6 +3,22 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+
+10/23/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Participate in Code Retreat at SCNA with Pair Programming and TDD
+  - Sprint Review
+  - Sprint Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Planning
+  - Follow up with low-time-cost connections from SCNA
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
+***
+Sprint 13^
+***
+
 10/22/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Had fun at SCNA
