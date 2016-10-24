@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/24/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint Planning
+  - Scouted application process for 8th Light Apprenticeship
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Apply to 8th Light Apprenticeship
+  - E-mail Zach to let him know.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - If I dedicate today to this, I should be able to deliver a quality application before have to go to my retail work.
+
 10/23/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Participate in Code Retreat at SCNA with Pair Programming and TDD
