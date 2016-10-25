@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/25/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Applied to 8th Light
+  - Send e-mails regarding above
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - enquire into volunteer opportunities with 8th Light
+  - follow up with Ray Hightower
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 10/24/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint Planning
