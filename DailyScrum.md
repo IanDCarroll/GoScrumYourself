@@ -4,6 +4,15 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/26/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Went to Hack for LA meetup,
+  - Created basic plan to help Women's Homeless Shelter
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - write, assemble and deliver thank you note to Pivotal Labs
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. I did not get to follow up on yesterday's goals due to exhaustion and the Meetup. I'll take it on tomorrow morning.
+
 10/25/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Applied to 8th Light
