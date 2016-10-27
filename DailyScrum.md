@@ -4,6 +4,15 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/27/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Write assemble and deliver thank you note to Pivotal Labs
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Follow up with the rest of the contacts I made at SCNA
+  - Complete ex14 in Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - time, but otherwise no.
+
 10/26/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Went to Hack for LA meetup,
