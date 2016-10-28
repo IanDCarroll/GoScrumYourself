@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/28/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Follow Up with the rest of the contacts I made at SCNA
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Ammend Repo of rHack for LA so that people can get to work helping the Women's Day Center and Shelter
+  - Complete ex14 and ex15 in Learn Ruby the Hard Way
+  - Meet with Justin about the Arduino Project
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I'm sick. The sickness has eaten into my time today, and yesterday. I will attempt to get as much done as I can but since I am sick, I'll not be pushing myself today. I only push myself if I'm healthy. It doesn't matter if I will get behind schedule because of it. The most important stuff, the contact folow-up has been successfully completed.
+
 10/27/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Write assemble and deliver thank you note to Pivotal Labs
