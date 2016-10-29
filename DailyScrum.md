@@ -4,11 +4,21 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/29/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Ammend repo for Hack for LA DWC project
+  - Build an annoying.js script with Johnny 5 for making people truly miserable with an arduino
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Review
+  - Sprint Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. Sick. So didn't get to LRtHW. Next sprint. When I'm less sick.
+
 10/28/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Follow Up with the rest of the contacts I made at SCNA
  2. __What will I do today to help meet the Sprint Goal?__
-  - Ammend Repo of rHack for LA so that people can get to work helping the Women's Day Center and Shelter
+  - Ammend Repo of Hack for LA so that people can get to work helping the Women's Day Center and Shelter
   - Complete ex14 and ex15 in Learn Ruby the Hard Way
   - Meet with Justin about the Arduino Project
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
