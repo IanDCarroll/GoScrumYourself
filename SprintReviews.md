@@ -1,6 +1,24 @@
 
-__Velocity Change Log:__ 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 13 Velocity:__ 25
+
+__Sprint 13 Review:__
+
+what gets added:
+
+ - Follow-up on SCNA contacts
+ - Applied to Apprenticeship
+
+The most important items of follow-up were attended to this sprint at the expense of Learn Ruby the Hard Way. However, I have still learned a lot, and it was all in service to the ultimate goal: get employed in a good team.
+
+Additional merits:
+
+ - Learned Johnny-5 and Arduino with Justin Dorfman
+ - Cobbled together a plan of attack on the Downtown Women's Center Data Collection
+ - Gained insights into the Software Process (Process first, skills are a byproduct) @ drinks.js
+ - Gained insigths into how to run a Swarm, or for that matter a project: (The least experienced person leads) @ drinks.js
 
 __Sprint 12 Velocity:__ 45
 

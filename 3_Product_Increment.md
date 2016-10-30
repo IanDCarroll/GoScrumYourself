@@ -9,6 +9,7 @@ Product Features:
 - Writing good documentation and stories
 - How to run events when the real Product Owner doesn't show.
 - Python
+- Johnny-5 Arduino
 
 - Resume 4.0
 - Role-specific resumes.
@@ -17,7 +18,7 @@ Product Features:
 - Polished GitHub repos
 - Definition of Done job application checklist 2.0
 - Job Application Tracker
-- Applied for 8 jobs
+- Applied for 11 jobs
 - 8 Blog posts
 - 3 Python module repos
 - 7 Test Driven exercises from Learn Ruby the Hard Way
