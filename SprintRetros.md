@@ -1,6 +1,14 @@
 Retrospectives:
 
 
+__Sprint 13 - 10/23/16 - 10/29/16__
+
+This sprint was spent primarily cleaning up from the last conference. I made sure to follow up on all the contacts I made. I also did some interesting open-source work with Justin Dorfman and with Hack for LA. Pushing myself as hard as I have last sprint has causes me to get sick this week. I really should remember not to push that hard. Now i will spend this sprint with a major hit to velocity, and next sprint will feel it too. I'm pushing back my estimate on when I will be done Learn Ruby the Hard way to December 24. I might be able to make up some time, but even if I do, It'll probably be another sprint before things are complete.
+
+Actions:
+ 1. Get well. Take it easy. Take care of yourself.
+ 2. Be casreful not to push yourself that hard.
+
 __Sprint 12 - 10/16/16 - 10/22/16__
 
 This sprint has been exhausting but productive. I am coming hard upon the limits that my feeble human mind can take, so I should remember what this feels like. Pushing past this point is not something that will be sustinably productive. I made some great progress. I also was able to maintain my self-confidence and create a workable level of ego. It's okay to be scared, but I will need to push past that and make sure to do more coding. I need to drive in pairs. I need to assert myself to contribute. so I must continue to maintain, build and defend a healthy sense of self-worth. It is a neccessary investment in my future. I know this ego is not myself, but I need an ego to engage the universe.
