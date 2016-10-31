@@ -4,6 +4,21 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/30/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 13 Review
+  - Sprint 13 Retrospective
+  - Read to chapter 9 in "Extreme Programming Explained"
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 14 Planning
+  - Start ex14 In Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Sickness. I'm still pretty sick and I need to sleep, so I will code some and then get some rest. In the retail world, the idea of not coming to work because you're sick is unheard of. If you don't come in to work while you are sick, you are penalized by not being paid that day, or otherwise from having to take a sick day, which there are not an infinite ammount of, or take a social hit because you're not as dependable as they need. So you go into work sick, everyone else gets sick. They all have to come into work too. I hear software development is not like that. I'll have to remember that when telling developers about being sick. They'll expect me to be sensible in a way I haven't been since my school years.
+
+***
+Sprint 14^
+***
+
 10/29/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Ammend repo for Hack for LA DWC project
