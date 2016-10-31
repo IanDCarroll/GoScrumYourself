@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+10/31/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 14 Planning
+  - Complete ex14
+  - Read to Chapter 10 in Exteme Programming Explained
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete ex15
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Still sick, but I've got enough time. And Happy Haloween.
+
 10/30/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 13 Review
