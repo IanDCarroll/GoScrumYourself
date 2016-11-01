@@ -4,6 +4,18 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/1/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex15
+  - Start ex16
+  - Followed up on 8th Light Apprenticeship Application (They're getting to it this week. So nervous.)
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Go to lunch.js
+  - Read a chapter of Extreme Programming explained
+  - work on ex16 if an opportunity presents itself.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I should be able to accomplish this. I'm feeling less sick.
+
 10/31/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 14 Planning
