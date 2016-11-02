@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/2/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Went to lunch.js
+  - read to chapter 15 of Exreme Programming Explained
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete ex16
+  - prepare an arduino/Johnny 5 presentation for FullStack LA
+  - attend FullStack LA
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers for today. However, I am behind schedule. I'll need to make up for it tomorrow. That's my last real day to work this sprint.
+
 11/1/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete ex15
