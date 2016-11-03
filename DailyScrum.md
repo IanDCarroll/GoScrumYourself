@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/3/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Gave Arduino annoying.js talk at FullStack LA
+  - complete ex16 in Learn Ruby the Hard Way
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete ex17, 18 and 19
+  - prepare for and conduct phone interview
+  - redo resume for off-the-wall recruiter call
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I might have to disappoint that recruiter. Could be interesting though... As for the exercises, 3 is a little much to get done in a day, but it's possible. I have the maker faire the next two days, so time/energy will be very limited after today.
+
 11/2/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Went to lunch.js
