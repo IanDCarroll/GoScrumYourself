@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/4/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete ex17
+  - give a good phone interview
+  - change directions mid-sprint (Not recommended)
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Write tests and imporve twilight.sparkle
+  - write tests for smplClock
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - time. Again. rest of the sprint is busy.
+
 11/3/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Gave Arduino annoying.js talk at FullStack LA
