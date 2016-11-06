@@ -4,6 +4,21 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/6/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 14 Review
+  - Sprint 14 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Planning
+  - shave a yak or two reviewing Python
+  - if time and psychology permits, start setting up technical screen environment.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I am going to take it easy today and reestablish a feeling of safety and normalcy. So some things may not get done to a full extent. Tomorrow will be my day to cram.
+
+***
+Sprint 15^
+***
+
 11/5/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Write tests and improve twilight.sparkle
