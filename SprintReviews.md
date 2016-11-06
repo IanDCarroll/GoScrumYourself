@@ -1,6 +1,23 @@
 
-__Velocity Change Log:__ -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 14 Velocity:__ 25
+
+__Sprint 14 Review:__
+
+what gets added:
+
+ - 4 more Test-Driven Learn Ruby the Hard Way exercises
+ - tests for Twilight Sparkle, plus more sparkles
+ - A successful phone screening interview
+
+The successful phone screen was an unqualified success. I feel I have a good way of handling this part of the interview process, and will use this as a model for similar future ones.
+ 1. Let the interviewer talk. Let them describe in their own words what is important to them.
+ 2. talk about how you could be helpful to their goals, and what you are looking for in a team.
+ 3. Let them talk some more. Always listen. Never assume.
+
+In addition, I have switched focus since the technical screen comes next. Supposedly it is simple. All the more reason to be as ready as I can be. So until the interview, Ruby is on hold, Python is what I will be making sure is fresh in my mind for the interview. I need as much quiet and space as I can get to prepare.
 
 __Sprint 13 Velocity:__ 25
 

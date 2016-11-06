@@ -20,7 +20,5 @@ Product Features:
 - Job Application Tracker
 - Applied for 11 jobs
 - 8 Blog posts
-- 3 Python module repos
-- 7 Test Driven exercises from Learn Ruby the Hard Way
-
-
+- 3 Python module repos, 1 with tests
+- 17 Test Driven exercises from Learn Ruby the Hard Way
