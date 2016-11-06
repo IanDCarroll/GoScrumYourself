@@ -1,6 +1,15 @@
 Retrospectives:
 
 
+__Sprint 14 - 10/23/16 - 10/29/16__
+
+I did push myself too hard last sprint. I got very sick. To make matters worse, I had some really terrible fights with someone close to me. It has really shaken me and has become the primary blocker to my success. I greive for that, but I don't have the time to spend. I also had a very successful screening interview and now I have a technical screen to worry about. I can't afford any distractions to making sure I am as awesome as possible. So I have to put all that aside and really focus in peace. After the screen I can make personal matters a priority, which they will likely get even worse. Again, can't worry about that now. I got to make this work.
+
+Actions:
+ 1. be nice to yourself - have peace and quiet and safety.:wq
+ 2. Focus on f****ng nailing the next screen.
+
+
 __Sprint 13 - 10/23/16 - 10/29/16__
 
 This sprint was spent primarily cleaning up from the last conference. I made sure to follow up on all the contacts I made. I also did some interesting open-source work with Justin Dorfman and with Hack for LA. Pushing myself as hard as I have last sprint has causes me to get sick this week. I really should remember not to push that hard. Now i will spend this sprint with a major hit to velocity, and next sprint will feel it too. I'm pushing back my estimate on when I will be done Learn Ruby the Hard way to December 24. I might be able to make up some time, but even if I do, It'll probably be another sprint before things are complete.
