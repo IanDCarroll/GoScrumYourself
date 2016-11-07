@@ -4,6 +4,16 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/7/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Srint 15 Planning
+  - Yak Shaved for practice getting back into python
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Set up interview environment
+  - Shave some more yaks with python
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - The disruptions and distractions have been eliminated. I should be able to do this.
+
 11/6/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 14 Review
