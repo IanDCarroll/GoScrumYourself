@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/8/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - set up basic interview environment (Still have questions)
+  - Yak shaved for practice with Python
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Fine tune internet setup
+  - Yak shave some more
+  - do the interview well
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - If the environment for the interview is too different from my vim setup, it will extend my time completing the challenge and give a false negative. same thing goes if I can't get myt head set working propperly, because it looks like this is all going to be done through one application. So I need to make sure that's squared away before noon, or I know a reasonable workaround. Other than that, I need to keep calm and do my best. I'm prepared.
+
 11/7/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Srint 15 Planning
