@@ -4,6 +4,17 @@ Questions template:
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
 
+11/9/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Yak shaved for practice
+  - Sert up interview environment
+  - Participated in technical interview
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - read more of Extreme Programming explained
+  - get back to Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - That was such a massive push that happened in rythm separate from my normal sprint. It will take some cognitive overhead to switch back to the previous focus. In future sprints I can bake into the goal preparation for the lessons I learned yesterday.
+
 11/8/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - set up basic interview environment (Still have questions)
@@ -13,7 +24,7 @@ Questions template:
   - Yak shave some more
   - do the interview well
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
-  - If the environment for the interview is too different from my vim setup, it will extend my time completing the challenge and give a false negative. same thing goes if I can't get myt head set working propperly, because it looks like this is all going to be done through one application. So I need to make sure that's squared away before noon, or I know a reasonable workaround. Other than that, I need to keep calm and do my best. I'm prepared.
+  - If the environment for the interview is too different from my vim setup, it will extend my time completing the challenge and give a false negative. same thing goes if I can't get myt head set working propperly, because it looks like this is all going to be done through one application. So I need to make sure that's squared away before noon, or I know aythm reasonable workaround. Other than that, I need to keep calm and do my best. I'm prepared.
 
 11/7/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
