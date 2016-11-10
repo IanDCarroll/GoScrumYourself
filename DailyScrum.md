@@ -3,6 +3,19 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/10/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 15 Review
+  - Sprint 15 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Read Malina Tran's Blog
+  - Do Machinko's(tm) Company Research
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I need to get both of these things done today so that I have extra time for learning Big O Notation. Sleep? well, I better make sure I get it. I can't afford to push myself too hard and burn out. Or get sick.
+
+***
+Sprint 16^
+***
 
 11/9/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
