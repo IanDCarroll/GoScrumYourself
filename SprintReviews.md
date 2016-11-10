@@ -1,6 +1,23 @@
 
-__Velocity Change Log:__ 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 15 Velocity:__ 43
+
+__Sprint 15 Review:__
+
+What's being added:
+
+ - The best, most well-prepared-for Technical Interview I could give.
+ - Practice yak-shaves:
+  - Complete practice test with 25% time to spare for refactoring
+  - test drive reversing a palendrome
+  - test drive fizz-buzz (Spam-Eggs in Python)
+  - Test drive shaven yak class
+  - test drive fibonacci numbers
+  - test drive prime numbers
+
+It was all about the interview. After all, that is the goal. Make a solid interview and get asked back. Any other thing I'm working on is not as important as doing that first job. So although I'd really feel more comfortable with Ruby under my belt, it has to take a bit of a back seat.
 
 __Sprint 14 Velocity:__ 25
 

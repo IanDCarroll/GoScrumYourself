@@ -19,6 +19,8 @@ Product Features:
 - Definition of Done job application checklist 2.0
 - Job Application Tracker
 - Applied for 11 jobs
+- Completed 1 phone screen
+- Completed 1 technical interview
 - 8 Blog posts
 - 3 Python module repos, 1 with tests
 - 17 Test Driven exercises from Learn Ruby the Hard Way
