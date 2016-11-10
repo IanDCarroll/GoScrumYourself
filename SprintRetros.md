@@ -1,12 +1,33 @@
 Retrospectives:
 
 
-__Sprint 14 - 10/23/16 - 10/29/16__
+__Sprint 15 - 11/6/16 - 11/9/16__
+
+this is a short sprint. This is because it just makes sense for now to switch the day of my reviews/retros to correspond with the companies who are contacting me. (This is a fantastic problem to have!!!) So for a while, now, we're going to switch our cadence and take a half-sprint to accomplish finding a rythm that works with reality. In any case, wow! That was a productive 3 days! And it all went to a single purpose, which, considering that this was my very first technical interview ever, it went really really well. And in addition, I got another phone screen coming up with another company! Things are happening so fast it's making me a little queezy with nerves. I need to invest in calming down. I'm also very thankful that previous major blockers are not interfering with my success, and even turning into encouraging elements. that bodes well for my ability to accelerate.
+
+things to work on for future interviews: watch out for things that are on the test that are not explicitly stated are on the test! I suppose Noobs don't realize that thse things are "Obviously" going to be on the test, but:
+Being able to talk confidently about the basics of:
+ - OOP
+ - Data Structures
+ - Algorythms
+ - Big O
+ - Functional (Maybe)
+
+There are other areas, but those are big ones, and some other important ones I got pretty solid.
+
+Actions:
+ 1. don't panic.
+ 2. Switch sprint review/retro day to wednesday, because that's the the day when s**t goes down.
+ 3. rearrange priorities of learning to meet business requests (Isn't it great to get feedback? Now you can really play ball!)
+ 4. Don't Panic.
+ 5:. Be f***king awesome.
+
+__Sprint 14 - 10/29/16 - 11/5/16__
 
 I did push myself too hard last sprint. I got very sick. To make matters worse, I had some really terrible fights with someone close to me. It has really shaken me and has become the primary blocker to my success. I greive for that, but I don't have the time to spend. I also had a very successful screening interview and now I have a technical screen to worry about. I can't afford any distractions to making sure I am as awesome as possible. So I have to put all that aside and really focus in peace. After the screen I can make personal matters a priority, which they will likely get even worse. Again, can't worry about that now. I got to make this work.
 
 Actions:
- 1. be nice to yourself - have peace and quiet and safety.:wq
+ 1. be nice to yourself - have peace and quiet and safety.
  2. Focus on f****ng nailing the next screen.
 
 
