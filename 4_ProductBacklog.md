@@ -1,10 +1,20 @@
 Product Backlog
 
 
+- Epic: Learn OO design
+ - Encapsulation
+ - Inheritance
+ - Ploymorphism
+ - SOLID
+ - For each: write an example
+
+- Epic: Learn Data Structures
+
+- Epic: Learn Algorythms
+
+- Practice TDD
 - develop an appropriate level of self-confidence
 - Test Drive Learn Ruby the Hard Way
-
-
 __Theme: Elimintating knowlege gaps__
 - Languages
  - Free Code Camp
