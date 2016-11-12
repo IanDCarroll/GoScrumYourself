@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/11/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learned about Graph Theory, and git internals at SGV LUG
+  - read some of Malina Tran's blog
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - research and learn fundimantals of Big O
+  - read more of Malina Tan's blog
+  - Try Machiko's(tm) company research
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - work was really rough today. It will only get rougher. It's probably the biggest blocker to the sprint goal now. which is improvement! Still I have to be very careful not to burn out. I'm skirting that edge.
+
 11/10/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 15 Review
