@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/13/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Research fundamentals of big O
+  - Completed reading of Extreme Programming Explained by Kent Beck
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - read chapter 1 of Clean Code by Robert C. Martin
+  - create example repository of big O with python
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. It looks like it is doable.
+
 11/12/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - read Malina Tran's blog
