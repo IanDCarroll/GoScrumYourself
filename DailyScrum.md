@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/14/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - read Chapter 1 of Clean Code
+  - Create Readme and the first examples in BigO
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Create more examples in BigO
+  - read chapter 2 of Clean Code
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. There is a time danger, but it should be fine.
+
 11/13/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Research fundamentals of big O
