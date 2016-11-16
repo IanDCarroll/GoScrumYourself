@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/15/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - read chapter 2 of Clean Code
+  - create more exaples in big O
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - read Chapter 3 of Clean Code
+  - write tests for chinese traditional time exercism
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. Only real blocker is an irrational expectation that I can't really do it. But I totally can.
+
 11/14/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - read Chapter 1 of Clean Code
