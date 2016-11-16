@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/16/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - read chapter 3 of Clean Code
+  - rewrite readme and delete rotten code from chinese datetime project
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Learn Ruby the Hard way ex.18
+  - Perform for interview well enough to advance to the next level (Ace it)
+  - Sprint 16 Review
+  - Sprint 16 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - There are unknown unkowns in the interview. I will have to listen carefully and adapt. remember to not get so excited I don't let my interviewer speak. As for the rest. time. As always. I also need to get some chores done, but I still think it'll be fine.
+
 11/15/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - read chapter 2 of Clean Code
