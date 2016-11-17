@@ -1,6 +1,19 @@
 
-__Velocity Change Log:__ +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 16 Velocity:__ 30
+
+__Sprint 16 Review:__
+
+What's being added:
+
+- A really great interview with 8th Light
+- A repo describing Big O with examples
+- Redone Chinese datetime repo
+- exercise 18 Learn ruby The Hard way
+
+It was all about the interview, and I got that done well. I'm on to the next level! Now I need to completely pivot everything again. The whole point of this is to gain enough experience and good habits to get what I am getting now, so the rest is rather trivial. The interview went well!!!
 
 __Sprint 15 Velocity:__ 43
 

@@ -10,6 +10,7 @@ Product Features:
 - How to run events when the real Product Owner doesn't show.
 - Python
 - Johnny-5 Arduino
+- Fundamentals of Big O
 
 - Resume 4.0
 - Role-specific resumes.
@@ -23,4 +24,4 @@ Product Features:
 - Completed 1 technical interview
 - 8 Blog posts
 - 3 Python module repos, 1 with tests
-- 17 Test Driven exercises from Learn Ruby the Hard Way
+- 18 Exercises from Learn Ruby the Hard Way
