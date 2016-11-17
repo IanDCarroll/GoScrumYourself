@@ -1,5 +1,17 @@
 Retrospectives:
 
+__Sprint 16 - 11/10/16 - 11/16/16__
+
+That turned out well! Now I need to completely shift my footing. Put my money where my mouth is and really deliver some quality. I have been charged next with creating an unbeatable tic tac toe game. I'm afraid that I won't be able to do this, but really. I can do this. I just have to remember all the good habits I've been forming, use those to approach the problem, and ride them to delivery. The key I'll need to focus on is quality. But this is exactly the kind of opportunity I have been preparing for. 
+
+Changing the sprint timing was a really great idea. The primary blocker will be the time my regular job takes up.
+
+Actions:
+ 1. Don't Panic.
+ 2. remember to break the problem into smaller problems.
+ 3. remember to test drive and focus.
+ 4. use every resource at your disposal.
+ 5. commit everything to this opportunity.
 
 __Sprint 15 - 11/6/16 - 11/9/16__
 
