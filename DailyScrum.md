@@ -3,6 +3,22 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/17/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Learn ruby the Hard way ex 18
+  - Ace Interview
+  - Sprint 16 Review
+  - Sprint 16 retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 17 Planning
+  - Plan out basic flow of System
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers. This is a tall order this week, but still doable. I need to focus.
+
+***
+Sprint 17^
+***
+
 11/16/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - read chapter 3 of Clean Code
