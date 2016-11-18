@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/18/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 17 Planning
+  - Plan basic Flow of System
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Build Game Board
+  - Build Player Class
+  - Build raw_input() for the human user
+  - Mock Unbeatable Algorythm for the computer player
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - This is 14 points in a day. It's a tall order, but I need to make sure I get a good start. Today is also my only day off between now and next sprint. So this is my opportunity.
+
 11/17/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Learn ruby the Hard way ex 18
