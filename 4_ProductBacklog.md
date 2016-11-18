@@ -1,22 +1,19 @@
 Product Backlog
 
+__Theme: Practice Craftsmanship with Tic-Tac_Toe__
 
-- Epic: Learn OO design
- - Encapsulation
- - Inheritance
- - Ploymorphism
- - SOLID
- - For each: write an example
+ - plan out basic flow of the system -5-
+ - build game board that returns the current state of the board. -5-
+ - build basic player class that has common attributes of both computers and humans -5-
+ - build raw-input to get human player's choice -3-
+ - build referee to manage game proceedings (The heart of the system that pulls everything) -8-
+ - build rules file to load into referee -5-
+ - build display so that the human player can get feedback -5-
+ - build unbeatable algorithm to get computer player's choice -8-
 
-- Epic: Learn Data Structures
-
-- Epic: Learn Algorythms
-
-- Practice TDD
-- develop an appropriate level of self-confidence
-- Test Drive Learn Ruby the Hard Way
 __Theme: Elimintating knowlege gaps__
 - Languages
+ - Learn Ruby the Hard Way
  - Free Code Camp
 - Frameworks
  - Rails
@@ -45,15 +42,16 @@ __Theme: Elimintating knowlege gaps__
  - TCP/IP
  - FTP
  - HTTP
-- Data structures
-- Big O
+- Epic: Learn Data Structures
+- Epic: Learn Algorythms
 
 __Theme: Developing problem-solving skills__
-- TDD
- - Rewrite Exercism test scripts to learn TDD
- - read TDD blogs/ git hub repos
-- Learn Code the Hard Way
-- Object Oriented Programming
+- Epic: Learn OO design
+ - Encapsulation
+ - Inheritance
+ - Ploymorphism
+ - SOLID
+ - For each: write an example
 - Design Patterns
 - Functional Programming
 - Learn C the Hard Way
@@ -82,3 +80,4 @@ __Theme: Expanding Domains__
 - Elixyr
 - Erlang
 - Haskell
+- Go
