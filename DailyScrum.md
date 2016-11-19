@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/19/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Build Game Board
+  - Build Player Class
+  - Build raw_input() for Human player
+  - Mock Unbeatable Algorithm for Computer player
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Mock the Display so the human can get feedback
+  - Build referee class to regulate the game
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I have 2 to 4 hours to work today. It might be only enough to finish the display. But if I can get both done, I should have a working system if I can get the piece that ties it all together written as well.
+
 11/18/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint 17 Planning
