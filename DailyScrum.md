@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/20/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Mock the display so that human can get feedback
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - refactor display
+   - for `get_board_size()` call `import` only once
+   - refactor `construct_rows()` so that loops are not nested
+  - build referee
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - today is my last day off before the end of the sprint. I got an extra one and I intend to use it to the fullest. Again, this is a tall order, and there is more I still need to do, but If it get these things done, I should have the game very close to being on its feet.
+
 11/19/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Build Game Board
