@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/21/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Refactor display
+  - Build Referee
+  - read up through chapter 5 in Clean Code
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - refactor referee
+   - write out unit tests to get more specific functions
+  - Move `get_board_size` from Display to TableTop class so that other classes can call it.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Limited time. I have a few hours today and a few hours tomorrow night to have the project presentable for my first iteration.
+
 11/20/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Mock the display so that human can get feedback
