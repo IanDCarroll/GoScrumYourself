@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/23/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Write executable script to make game run
+  - debug debug debug debug
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - present the first draft to 8th Light
+  - Sprint Review
+  - Sprint Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I got no sleep last(this) night. I need some rest. Which I will have! ...After I go to work for 8 hours at my day job.
+
 11/22/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - refactor referee
