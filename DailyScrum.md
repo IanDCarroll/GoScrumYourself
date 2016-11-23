@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/22/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - refactor referee
+  - move `get_board_size` to facilitator class from which referee and announcer inherit
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - refactor `check_for_winner` so that it works with boards of arbitrary size
+  - build final code to load and run game
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It might be a long night, but I'd like to have this ready for 8th Light when they get in in the morning tomorrow.
+
 11/21/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Refactor display
