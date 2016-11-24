@@ -2,6 +2,21 @@ Retrospectives:
 
 __Sprint 16 - 11/10/16 - 11/16/16__
 
+That was fun... but also exhausting. It put my new-found habits to the test. There were plenty of times where I was mentally exhausted and gave up a little on my values. I didn't TDD everything. Or I would write "exploratory code" (which is now pretty permanent). Or I would commit only after 3 or 4 changes in 3 or 4 files. When you're too tired to go on, one of the fist things to go are your values and commitment to quality. I was too eager to get something shippable in a week. And now I have to pay a bit of a price for it. That last late night was not glorious. It kind of undid the good stuff I was doing at the start of the sprint all because I was afraid I couldn't make the goal. But what's more important? Making the goal, or doing something right and taking the time to learn? I would have been better for me to take my time and do it right. I've only got 15 to 20 hours a week to code, probably 10 hours of flow time max. Is that enough time to realistically create a quality game like this? I was afraid of failing, I was afraid of not getting the apprenticeship, so I rushed, and marred my work. To be fair, it's really not terrible work, but there are things that probably wouldn't have happened had I slowed down and taken the time to think, not to mention respect my own process and take a break when I started to flag in adhering to TDD or clean code, and most importantly had the courage to do a good job and not give in to fear of failure or not being good enough in some way. I have a real problem with personal self worth, and I think that's the root cause of the flaws in my performance. So onward!
+
+Actions:
+1. Give yourself the respect a human being of good character earns. Pay yourself in respect. Pay generously. Don't let anyone steal or destroy your pay.
+2. If you notice your commitment to clean code, TDD, or careful commits flagging, it's time for a break. Go treat yourself well. Allow your mind to wander, wonder and create. It's more valuable to write no code as opposed to bad code, even if it means you don't make the progress you hoped for. Man, is not writing code valuable. Less to debug!!!
+3. "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."
+
+Don't let your fear drive you to make bad code. have the courage to do less than expected, but have it be total quality. Identify that you are rushing because of fear. You are paying a terrible price because of fear. And it will have consequences. (in live production it could mean causing people to be opressed or killed by your hasty decisions!) Face the angry manager of you mind and quote the above. Every evil act is done because of fear convincing you to part with your values.
+
+Next sprint should therefore focus on cleaning up the mess I made. Debugging, Refactoring, eliminating anything stated twice, documenting, adding personal touches, taking the time to think and research, and eliminating anything stated twice.
+
+...And another thing, I was so focused on writing clean functions and micro-statements that I failed to notice that I was repeating myself across modules and classes! I'll need to correct that by looking up at the big picture this next sprint.
+
+__Sprint 16 - 11/10/16 - 11/16/16__
+
 That turned out well! Now I need to completely shift my footing. Put my money where my mouth is and really deliver some quality. I have been charged next with creating an unbeatable tic tac toe game. I'm afraid that I won't be able to do this, but really. I can do this. I just have to remember all the good habits I've been forming, use those to approach the problem, and ride them to delivery. The key I'll need to focus on is quality. But this is exactly the kind of opportunity I have been preparing for. 
 
 Changing the sprint timing was a really great idea. The primary blocker will be the time my regular job takes up.
