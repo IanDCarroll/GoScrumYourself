@@ -1,6 +1,15 @@
 
-__Velocity Change Log:__ -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 16 Velocity:__ 40
+
+__Sprint 16 Review:__
+
+What's being added:
+- A working first iteration of tik-tak-toe.py
+
+This was tough to do, probably the most work I've done on a single project ever. It was amazing to me that though I had 8 stories to complete, there was a hidden 9th in integrating them all into a working product, and 11 emergent stories that needed to get done because of the work on those 8. Also there was innumerable small decisions. It was a great, if somewhat exhausting expereince to get this working first draft up out "from airy nothing". Onto the new challenges: the comupence for my poor decisions: a shit-ton of refactoring, polishing, and documenting. Probably some research needs to happen, too.
 
 __Sprint 16 Velocity:__ 30
 
