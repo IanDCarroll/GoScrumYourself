@@ -3,6 +3,23 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/24/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Present first draft to 8th Light
+  - got feeback from awesome people
+  - Sprint 17 Review
+  - Sprint 17 Retrospective
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - research Tic Tac Toe
+  - Update the readme to be usable by humans
+  - (If there's still time) Debug Gameplay
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It's thanksgiving, so I'm home. As long as there aren't any interruptions I'll definitely get the first two done and possibly the third. I need to make sure to manage my self worth, take breaks when my discipline begins to flag, and have the courage to ignore the urge to rush.
+
+***
+Sprint 18^
+***
+
 11/23/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Write executable script to make game run
