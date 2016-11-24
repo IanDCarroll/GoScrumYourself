@@ -1,13 +1,20 @@
 Sprint Goal
 
- - plan out basic flow of the system -5-
- - build game board that returns the current state of the board. -5-
- - build basic player class that has common attributes of both computers and humans -5-
- - build raw-input to get human player's choice -3-
- - mock rules file to load into referee -3-
- - build referee to manage game proceedings (The heart of the system that pulls everything) -8-
- - mock display so that the human player can get feedback -3-
- - mock unbeatable algorithm to get computer player's choice -1-
+ - Research Tic-Tac-Toe to uncover how to write an unbeatable agorithm -5 -
+ - Update the Readme to include: - 5 -
+  - A better name
+  - Spelling
+  - How to play
+  - How to run the tests
+  - A link to GoScrumYourself
+ - Debug Game Play. Certain things happen that shouldn't. - 5 -
+ - Refactor Repeated Source Code - 8 -
+ - Refactor Repeated Code in tests - 8 -
+  - This is an opportunity to switch to unittest
+ - Add personal expression to Game Play - 5 -
+  - Create a resource file so that text can be swapped for different styles or languages
+  - Add Twilight Sparkle to make the gameplay stand out. 
+ - Webhook a Travis CI deployment to GitHub for running tests on PRs (If time permits) - 5 -
 
 
-Total Commitment: 33
+Total Commitment: 41

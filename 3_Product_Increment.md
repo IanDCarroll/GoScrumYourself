@@ -1,5 +1,13 @@
 Product Features:
 
+- Working first draft of tic-tac-toe
+ - Source Code that tells a story
+ - Separarated Concerns
+ - Short Functions
+ - Good Names
+ - Consistent Formatting
+
+
 - GitHub
 - Open Source Developer
 - Agile Development
