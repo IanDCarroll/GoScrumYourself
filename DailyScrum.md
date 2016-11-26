@@ -3,6 +3,21 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/25/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Research Tic_tac-toe.
+  - Update readme to be usable by humans.
+  - Debug some of the game play.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Debug the rest of the game-play
+   - Squares should start @ 1 not 0.
+   - X and O should not be coupled to Computer and Human
+   - move sleep() to Referee
+   - Don't allow illegal Human.move to write to the board.
+   - check_conscience() needs to print something.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time, and exhaustion from work. Black Friday today, but I'm finally feeling fresh enough to tackle this with great gusto!
+
 11/24/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Present first draft to 8th Light
