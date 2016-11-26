@@ -2,15 +2,19 @@ Dear GitHub Repo Viewer,
 
 Hello! Thank you for stopping by my experiment, here! :smile:
 
-This is a markdown scrum framework. traditional scrum uses the high technology of post-it notes an a wall. On GitHub, markdown docs and a repo are about as close as you come to that. 
+This is a markdown scrum framework. Traditional scrum uses the high technology of post-it notes an a wall. On GitHub, markdown docs and a repo are about as close as you come to that. Yes, you can use trello or pivotal tracker or jira, but you can do it with post-it notes and a wall better in my estimation.
 
 In this case, I'm using it to develop myself as a developer who scrums. 
 
 Meta? Yes.
 
-__For experienced Scrummers:__
-
-Please take a look at this, I would love feedback and suggestions. Has anyone else tried this? I'd love to hear stories!
+__Tour:__
+for daily progress: check out the Daily Scrum  
+for weekly goals: check out the Sprint Goal  
+for previous work accompished: check out Reviews and Product Increment  
+for previous process imporvement: check out Retros  
+for what else I've got planned: check out the Product Backlog  
+the rest is the foundation and rules I try to adhere to.
 
 __For new Scrummers:__
 
@@ -32,19 +36,3 @@ where there is openness and respect for eachother's role in that process,
 where work is done right and on time without the need for a lot of late nights,
 then scrum is something that might be of interest to you.
 
-__For prospective employers:__
-
-Thank you for taking the time to review my repo! I really appreciate it. My name is Ian Carroll and I am currently looking for a role in an agile environment, and have a number of skills that I have developed to deliver value for your team.
-
-I am a Certified ScrumMaster. I also make OSS contributions on my own and through a meetup here in LA: https://github.com/fullstackla where I am currently working on a map website that will make it easier for developers to get involved across LA. I am also working on a dice-rolling android app with David Larrimore for fun and learning: https://github.com/DiceHard. I also have a number of repos of commandline scripts I've written in JavaScript, Python, Java and C. I am constantly learning more and I welcome you to check out my progress.
-
-As for soft skills I have a rich background in customer service, sales, and theatre. Theatre means I know how to speak publicly, collaborate on something that hasn't been done before, and get things done by show-time. Customer service means I am very good at listening, offering suggestions, and transforming bad experiences into good ones. Sales means that I am fearless in setting out to try new methods, and undeterred by setbacks. In my whole life, I have never stopped learning. By the end of my tenure at each of my previous positions, none of my peers knew more about our product than me, regardless of what that product was.
-
-I also have a very diverse background of expereinces and will bring a unique perspective to the team. Besides having worked with retail POS and inventory systems, and having opinions on those, I also have a background in story-telling, in Classical Chinese culture and philosophy, and in Chess as a form of meditation and self-awareness.
-
-I am still learning, and plan to be for the rest of my life, and I am looking for a team where I can optimise that learning and deliver increasing value with every sprint. Please feel free to comment in the issues here with any suggestions for imporvement, or contact me via my e-mail with any questions or to set up a time to talk.
-
-Again, thank you for taking the time to review my repos, I hope we can work together to make valuable products.
-
-Warm regards,
-Ian
