@@ -9,6 +9,7 @@ In this case, I'm using it to develop myself as a developer who scrums.
 Meta? Yes.
 
 __Tour:__
+
 for daily progress: check out the Daily Scrum  
 for weekly goals: check out the Sprint Goal  
 for previous work accompished: check out Reviews and Product Increment  
