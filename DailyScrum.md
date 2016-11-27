@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/26/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Debug the rest of the game play.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Port tests to unittest
+  - Start work on the rest of cleaning up the test cases.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - This is a rather big intimidating undertaking. I hope I can actually achieve it. Any case, I've got a few hours. If it takes longer than that, I'm not throwing good time after bad to make it happen. I'll move on to other tasks.
+
 11/25/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Research Tic_tac-toe.
