@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/28/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Clean up the tests
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Cover all the functions with at least 1 test.
+   - refactor the code base if necessary to accompish this.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time again. But there is still tomorrow. Tomorrow is the last day before the end of the sprint, but it is also a day off from my day job, so I hope to get a lot done between now and then.
+
 11/27/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Port tests to unittest
