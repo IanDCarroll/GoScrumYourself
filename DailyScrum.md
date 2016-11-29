@@ -3,6 +3,21 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/29/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - identified places that need test coverage
+  - since I would need to redo the test anyway as I got into major refactoring, and since my brain was mush, I had the courage to not code. Instead I went to sleep early.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - refactor the code to repeat itself less (pretty epic)
+   - refactor move to be mostly an inherited method from Player
+   - find a way to have announcer do all the announcing.
+   - create general methods in facilitator or beyond, that allows general scanning of the board
+   - X and O should be separate from whether the computer or the human is playing. Tie them to player1 and player2
+   - don't allow the board's data structure to be accessed directly.
+   - refactor the tests as I go.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+   - it's a ton of work, but I should be able to make decent progress.
+
 11/28/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Clean up the tests
