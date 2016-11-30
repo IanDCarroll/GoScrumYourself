@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+11/30/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Refactor the code to repeat itself less
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Prettify the display and add more personal expression.
+   - Modify the announcer's text to be more fun.
+   - add Twilight Sparkle
+  - present what I have to 8th Light
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - time again, but I should have just enough. I will not be able to do a webhook to a Travis CI deplyoment this sprint. Too  much of a yakshave. And not a terrible loss. It was more extra credit. I'll move it to next sprint.
+
 11/29/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - identified places that need test coverage
