@@ -6,6 +6,9 @@ Product Features:
  - Short Functions
  - Good Names
  - Consistent Formatting
+ - Less repetition
+ - Thorough and useful documentation
+ - Colors for display
 
 
 - GitHub

@@ -1,10 +1,21 @@
 
-__Velocity Change Log:__ +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
 
-__Sprint 16 Velocity:__ 40
+__Sprint 18 Velocity:__ 41
 
-__Sprint 16 Review:__
+__Sprint 18 Review:__
+
+What's been added:
+ - A less verbose iteration of xox.py
+ - A better suite of supporting documents
+ - A better look to the game so the human can play with ease
+
+Also tough to do. I had to look through the code and find any places that I had repeated myself, and refactor like mad. I'm still not sure if I got everything, but for the time being it looks better than iteration 1. This next iteration has more focused goals that I'm hoping are the fruit of my efforts at cleaning up the code. If it is hard, that will be where I failed to write clean code. good to know for the future.
+
+__Sprint 17 Velocity:__ 40
+
+__Sprint 17 Review:__
 
 What's being added:
 - A working first iteration of tik-tak-toe.py
