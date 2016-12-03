@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/2/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Start on abstracting the many jobs of referee. She does too much.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - finish the transition to a better-abstracted Referee
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Looking good. Basically. I think this should be easy. Which makes me think it's a trap...
+
 12/1/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Prettify the Display so humans could use it easier.
