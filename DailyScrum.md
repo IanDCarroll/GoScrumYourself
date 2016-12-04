@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/3/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Continued to build a replacement referee
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Continue to build the replacement with propper tests and abstractions.
+  - Meditate properly on this task. take the appropriate time. Enjoy paying attention to the craft. Slow down.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It was a trap. This is more involved than I expected. I might need to push everything else back into next sprint.
+
 12/2/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Start on abstracting the many jobs of referee. She does too much.
