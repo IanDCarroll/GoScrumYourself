@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/4/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Build the replacement abstractions
+  - Meditate properly on the task. Enjoy paying attention to the craft. Slow down.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - work on building a complete test suite for the new package.
+  - if there's any time left over, try integrating and playing the new package.
+  - continue to find joy in paying attention to the craft. slow down and do good work.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - nah. I will probably need to push just about everything else back a sprint. It might be better to focus on getting all the code looking this nice.
+
 12/3/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Continued to build a replacement referee
