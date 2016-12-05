@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/5/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - build a complete test suite for the stage manager and its abstractions
+  - integrate the new stage manager into the game and replace the old referee
+  - enjoy the craft
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - abstract announcer to be a Carpenter that builds the board, and resources that are otherwise displayed.
+  - reorganize source files to be grouped into folders so that my eyes don't glaze over looking at them.
+  - enjoy the craft
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - time. but I should be able to get something done. It's more important to get less done and do it with craftsmanship than it is to get it all done but done poorly. I still have all of tomorrow.
+
 12/4/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Build the replacement abstractions
