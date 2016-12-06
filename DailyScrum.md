@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/6/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - start abstracting announcer
+  - Write tests as I go
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Complete the new abstraction and integrate it into the code
+  - create a better directory structure so that there's not just a jumble of files in the source directory
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Time. And there's a danger that in refactoring this code, I'll have to do surgery on evey class method that calls the new function. I'll probably have to refactor the names sooner or later. And I might need to disinherit Announcer from Scriptographer at some point in the future.
+
 12/5/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - build a complete test suite for the stage manager and its abstractions
