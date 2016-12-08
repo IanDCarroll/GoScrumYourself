@@ -1,5 +1,14 @@
 Retrospectives:
 
+__Sprint 19 - 12/1/16 - 12/7/16__
+
+I took the concept of courage to the next level this sprint. Instead of fighting a defensive battle against my exhaustion and then having the courage to stand up to it and take breaks as needed, I took the initiative. I gave up on trying to get both a complete unbeatable algorithm and good abstractions, and focused on clean and simple code. Instead of fighting fear, I game up on it completely and focused on having joy, and paying close attention to my craft. It really made a difference in the statisfaction I had with my work. So I plan to do this in the future.
+
+Actions:
+1. dont just have courage to stand up to fear. toss it asside altogether.
+2. Focus instead on having joy in observing and experiencing the art and craft of developing software.
+3. take whatever time you need. Don't write fast. Write good. Speed comes later. Observe good code. Use those meditation skills. Use those theatre rehearsal skills. Have joy and commit to the craft of the present moment.
+
 __Sprint 18 - 11/24/16 - 11/30/16__
 
 The choice to have courage to not do work when I was exhausted was tested several times across the sprint. I really worried I couldn't get it all done. (In fact, I didn't.) The Travis CI deployment got pushed back, although, that wasn't as important as some of the other stories. I Hope to be able to tackle it this time. It still is not as important as good tests, a working and clean unbeatable algorithm, or ensuring the code is clean and maintainable. I think I may be getting the hang of this. Anyway, that courage paid off in not creating more work for myself. I was astounded how many times after banging my head against a wall for an hour or two with a particular problem, by going for a walk and coming back fresh I could have the solution in 15 minutes. I'll need to remember that one. The bottle neck is not how fast you type, or how many hours you have to work, it's the quality of your mind during those hours. Which for me means frequent breaks. The better I treat myself, the more peace I could give myself, the easier it was to bring my mind to bear on the problem. Ok, so that works. I'll have to keep doing that.
