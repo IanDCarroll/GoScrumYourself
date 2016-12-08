@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/7/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Complete new abstraction of referee and intregrate it
+  - Abstract Announcer better
+  - change the directory structure and make sure tests still run
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint review
+  - Sprint retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers
+
 12/6/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - start abstracting announcer
