@@ -1,6 +1,6 @@
 Product Backlog
 
-__Theme: Practice Craftsmanship with Tic-Tac_Toe__
+__Theme: Practice Craftsmanship with Tic-Tac-Toe__
 
  - Clean up, revise, refactor, make beautiful
  - build unbeatable algorithm to get computer player's choice

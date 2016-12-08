@@ -7,7 +7,9 @@ Product Features:
  - Good Names
  - Consistent Formatting
  - Less repetition
+ - Clean single-responsibility abstractions
  - Thorough and useful documentation
+ - Thorough testing
  - Colors for display
 
 

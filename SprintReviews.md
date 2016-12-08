@@ -1,6 +1,18 @@
 
-__Velocity Change Log:__ +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+__Sprint 19 Velocity:__ 18
+
+__Sprint 19 Review:__
+
+Whats' been added:
+ - much more thorough test coverage
+ - abstracted referee's class into 4 smaller classes each with a single responibility
+ - did much the same to announcer
+ - reorganized the modules into directories
+ - made the code much more satifyingly pretty
+
+by just the velocity points this looks like a big hit in productivity, but it's actually the reverse. This has been an exceptionally valuable and satisfying sprint. na dI';m almost certain my point estimations were very, very wrong. The code is vastly cleaner. It just feels better. So this is a nice place for me.
 
 __Sprint 18 Velocity:__ 41
 
