@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/8/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint Review
+  - Sprint Retrospective
+  - delivery of iteration 3 to 8th Light
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Planning
+  - Start on unbeatable algorithm
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 12/7/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Complete new abstraction of referee and intregrate it
