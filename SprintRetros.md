@@ -2,7 +2,7 @@ Retrospectives:
 
 __Sprint 19 - 12/1/16 - 12/7/16__
 
-I took the concept of courage to the next level this sprint. Instead of fighting a defensive battle against my exhaustion and then having the courage to stand up to it and take breaks as needed, I took the initiative. I gave up on trying to get both a complete unbeatable algorithm and good abstractions, and focused on clean and simple code. Instead of fighting fear, I game up on it completely and focused on having joy, and paying close attention to my craft. It really made a difference in the statisfaction I had with my work. So I plan to do this in the future.
+I took the concept of courage to the next level this sprint. Instead of fighting a defensive battle against my exhaustion and then having the courage to stand up to it and take breaks as needed, I took the initiative. I gave up on trying to get both a complete unbeatable algorithm and good abstractions, and focused on clean and simple code. Instead of fighting fear, I gave up on it completely and focused on having joy, and paying close attention to my craft. It really made a difference in the statisfaction I had with my work. So I plan to do this in the future.
 
 Actions:
 1. dont just have courage to stand up to fear. toss it asside altogether.
