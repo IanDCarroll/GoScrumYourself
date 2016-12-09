@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/9/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint Planning
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Make algorithm have preferences
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers, but I need to get myself in gear if I'm going to deliver this sprint.
+
 12/8/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Sprint Review
