@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/11/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - build algorithm's special corner case
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - make algoithm win and block enemy wins
+  - if time permits, make algorithm fork and block enemy forks
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers.
+
 12/10/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - make algoithm have preferences
