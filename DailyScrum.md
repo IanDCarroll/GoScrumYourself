@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/12/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - make algorithm win and block enemy wins
+  - write tests for new functions
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - abstract computer's decision making processes into two cortecies: a Strategic Cortex, and a Tactical Cortex
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - should be fine. Rewiring the test cases will be a little time consuming, but it shoudl all work out.
+
 12/11/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - build algorithm's special corner case
