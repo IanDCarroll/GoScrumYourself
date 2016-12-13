@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/13/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - abstract computer's decision making process into two cortecies.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - fill out test coverage for abstractions.
+  - fix strange bug that deletes player marker_code
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers.
+
 12/12/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - make algorithm win and block enemy wins
