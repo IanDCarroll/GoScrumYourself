@@ -1,16 +1,21 @@
-Working Ageements:
+Working Agreements:
 
 
-Values:
+Goal:
 
-1. I am a free agent, and can ethically choose to quit for any reason I feel legitimate.
-2. My values and the values of my client must be in alignment, othewise I am ethically obligated to speak out.
-3. I will follow the priorites of my client so long as the above remains true.
+To build value beyond what word, number, or dollar can quantify.
+1. To increase Friendship, Wonder, and Joy for one and for all in process and product alike.
+2. To develop the courage and endurance to uphold a Code of Responsibility in support of my Goal.
+3. To provide useful services and products that express my Goal.
 
-4. I accept the burden of and am solely responsible for the ethical ramifications of any product I deliver.
-5. I accept the burden of and am solely responsible for the craftsmanship and artistic expression of my product.
-6. I accept the burden of and am solely responsible for the development and maintainence of my ethics and craftsmanship.
-7. No client or team can accept the burden of the above responsibilities on my behalf.
+Code of Responsibility:
+
+1. I pledge my work to the needs of of the whole team, all the people my work affects.
+2. I reserve the right to leave any team that undermines my pledge.
+3. I accept the burden of the ethical ramifications of any product I deliver.
+4. I accept the burden of the craftsmanship and artistic expression of my product.
+5. I accept the burden of the development and maintainence of my ethics and craftsmanship.
+6. I acknowledge that no team, no person or persons, can accept the burden of the above on my behalf.
 
 Practice:
 
