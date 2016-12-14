@@ -3,6 +3,20 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/14/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - revised my working agreement to include a goal and code of responsibility
+  - fix bugs in xox.
+  - Fill out most of the test coverage for Strategic Cortex
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete test coverage for strategic cortex
+  - 100% test coverage for tactical cortex
+  - deliver iteration 4 to 8th Light
+  - Sprint 20 Review
+  - Sprint 20 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers, though it could be a late night. Developing forking methods will have to wait next sprint.
+
 12/13/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - abstract computer's decision making process into two cortecies.
