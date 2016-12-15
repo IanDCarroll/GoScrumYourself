@@ -3,7 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
-1/14/16
+12/15/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete test coverage for strategic and tactical cortecies
+  - deliver interation 4 to 8th Light
+  - sprint 20 review and retro
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 21 planning
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I can definitely plan the next sprint today. Beyond that, I have an on-site interview today that will take up most of the day, and then I have my wife's company christmas party to take up the rest of it. I might be able to tinker a bit otherwise, but I should expect only one free day this sprint, and possibly none at all. This will be interesting. Home stretch.
+
+12/14/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - revised my working agreement to include a goal and code of responsibility
   - fix bugs in xox.
