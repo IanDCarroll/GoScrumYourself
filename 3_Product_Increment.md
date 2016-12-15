@@ -1,6 +1,6 @@
 Product Features:
 
-- Working first draft of tic-tac-toe
+- Working fourth draft of tic-tac-toe
  - Source Code that tells a story
  - Separarated Concerns
  - Short Functions
@@ -11,6 +11,7 @@ Product Features:
  - Thorough and useful documentation
  - Thorough testing
  - Colors for display
+ - (mostly) unbeatable algorithm
 
 
 - GitHub
