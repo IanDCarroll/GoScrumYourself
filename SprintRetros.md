@@ -1,5 +1,14 @@
 Retrospectives:
 
+__Sprint 20 - 12/8/16 - 12/14/16__
+
+This sprint I found some value codifying my commitments to my goal, ethics, and craftsmanship. It is hard to maintain a commitment to quality day after day, but no one can do it for you. You are the only perosn who can make craftsmanship happen in your work. It takes moral fortitude and strength of will to continually bring your whole self to bear on a project. So I decided to make a statement to that effect. I was willing to push things to next sprint for the sake of quality. My product is stronger because of it.
+
+Actions:
+1. Don't forget about the joy of making something well.
+2. Maintain your commitment.
+3. Develop the muscle to continually apply your best self to the task.
+
 __Sprint 19 - 12/1/16 - 12/7/16__
 
 I took the concept of courage to the next level this sprint. Instead of fighting a defensive battle against my exhaustion and then having the courage to stand up to it and take breaks as needed, I took the initiative. I gave up on trying to get both a complete unbeatable algorithm and good abstractions, and focused on clean and simple code. Instead of fighting fear, I gave up on it completely and focused on having joy, and paying close attention to my craft. It really made a difference in the statisfaction I had with my work. So I plan to do this in the future.
