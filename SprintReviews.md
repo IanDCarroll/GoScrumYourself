@@ -1,5 +1,17 @@
 
-__Velocity Change Log:__ -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+
+__Sprint 20 Velocity:__ 18
+
+__Sprint 20 Review:__
+
+What's been added:
+
+ - a much stronger computer playing algorithm. The only way to beat it is with a clever fork now.
+ - the algoithm is divided into a computer class, and two cortecies for strategy and tactics, which both inherit from a parser class.
+ - full test coverage
+
+I hope I have focused enough on quality this time. The tests cover the code, but they seem a little clumsy. I'm still learning that, but otherwise, this is looking pretty slick now :)
 
 __Sprint 19 Velocity:__ 18
 
