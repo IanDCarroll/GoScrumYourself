@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/16/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - Sprint 21 planning
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Start Forking part of algorithm
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I have to watch out for despair, hopelessness and the abuse heaped on my by someone close to me which causes those feelings. I hope I don't have to continue to work in these conditions for much longer, because I'm starting to unravel. If I can maintain myself a little longer to get this project completed, I'll feel better. I need a chance to rest. All I do is work, and deal with abuse. I am not in an environment where rest is possible. I need to at least complete the project, and do my very best to maintain quality for it. I have to find some way to manufacture hope and joy for myself so that I can fuel my work. Maybe coding is the thing. I do enjoy it a lot. I'll do coding and finish this project well. Abuse by someone close to me is my blocker. I can only remove it by pushing through.
+
 12/15/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete test coverage for strategic and tactical cortecies
