@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/19/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete method that avoids forks
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - refactor cortex to be easily swapped in and out of the Computer player
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - There might be some hairyness that slows this down, but I should be good.
+
 12/18/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete somewhat hacky method of making sure all forks are taken.
