@@ -3,11 +3,20 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/18/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - complete somewhat hacky method of making sure all forks are taken.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - consider refactoring forking method
+  - start on method that avoids forks
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers.
+
 12/17/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - Write tests for forking part of algorithm
  2. __What will I do today to help meet the Sprint Goal?__
-  - Start on methdos that will fork and avoid forks
+  - Start on methods that will fork and avoid forks
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
   - no blockers. I have maybe 2 hours to work today. Christmas time at my job. I'll have to try to keep the retail craziness from bleeding into my creation process.
 
