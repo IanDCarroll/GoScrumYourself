@@ -3,6 +3,22 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/20/16
+ 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+  - refactor cortex to be easily swapped out for others
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - make the code as clean and orderly as possible:
+   - move `Observer.get_board_size()` to the top of the list because so many other methods call it.
+   - change the name of control_booth to include the name "StageManager" right now its confusing.
+   - change parser list values into tuples
+   - look for opportunities to use list comprehensions
+   - test and refactor `observer.scan_NE_SW` and `scan_NW_SE` to work for multiple board sizes
+   - fill out tests for the recursive functions I'm using, probably code a limit on recursion depth.
+  - Add in finsihing touches to scriptographer to make it more fun/infuriating to play
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I got all day. I'll just try to get as much done as I can to make it as craftsmanly as possible before the deadline.
+
+
 12/19/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
   - complete method that avoids forks
