@@ -1,10 +1,5 @@
 Product Backlog
 
-__Theme: Practice Craftsmanship with Tic-Tac-Toe__
-
- - Clean up, revise, refactor, make beautiful
- - build unbeatable algorithm to get computer player's choice
-
 __Theme: Elimintating knowlege gaps__
 - Languages
  - Learn Ruby the Hard Way

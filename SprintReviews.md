@@ -1,5 +1,23 @@
 
-__Velocity Change Log:__ 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+
+
+__Sprint 21 Velocity:__ 18
+
+__Sprint 21 Review:__
+
+What's been added:
+
+ - First delivery version of Xox, my tic-tac-toe playing game.
+  - Never looses
+  - Wins whenever possible
+  - Has an arrogant and infuriating demeanour
+  - Has colors in the board
+  - Is coded as clean as I could make it
+  - fully covered with tests
+  - Uses code as a story to be as easy to grok as possible
+
+Regardless of 8th Light's pronouncement on what I delivered, it represents the best I can accomplish right now. I will not be regretting matters saying "Oh, if only I tried harder." I raged against the dying of the light. And regardless, I've come away with a much better understanding of Python, a much more realistic sense of discipline regarding TDD and code quality, invaluable practical experience developing code, and the sort of emergent challenges that occur with software as more than just coding challenges, and quite a few new tricks by sheer nececcity. Regardless of their decision, I have grown. and I'm really happy about that. I'll celebrate by learning about arduinos for no practical purpose beyond building a robot ninja army.
 
 __Sprint 20 Velocity:__ 18
 

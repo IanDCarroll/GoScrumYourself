@@ -1,6 +1,6 @@
 Product Features:
 
-- Working fourth draft of tic-tac-toe
+- Delivery vesion of tic-tac-toe
  - Source Code that tells a story
  - Separarated Concerns
  - Short Functions
@@ -11,7 +11,8 @@ Product Features:
  - Thorough and useful documentation
  - Thorough testing
  - Colors for display
- - (mostly) unbeatable algorithm
+ - smart-alec messages
+ - unbeatable algorithm
 
 
 - GitHub
