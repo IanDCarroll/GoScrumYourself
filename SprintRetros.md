@@ -1,5 +1,14 @@
 Retrospectives:
 
+__Sprint 21 - 12/15/16 - 12/21/16__
+
+Man, am I glad I do the most important stuff first! It means I get what needs to get done right away, I maximize my time for that and inadvertantly steer clear of scope creep issues. It meant that I had the requirements met early this sprint, and could spend time working on getting rid of technical debt, making things clean and beautiful (well, less ugly), and all with a worry-free mind that could really bring itself to bear on the problem. I had a lot of stress because of the fact that this was the delivery version. This is what 8th Light will be evaulating me on. Even with the stress lowered by getting the important stuff done first, I was nervous enough to be sick. I couldn't imagine the paralyzing fear approching the goal differently would have caused. It would not have been pretty. Any case, I've been pushing myself to the limit. It's time to back off and goof around. The next push will come another sprint.
+
+Actions:
+1. Take it easy and have some undirected fun. You've earned it.
+2. Keep this process, it's working well for you.
+3. Prepare for the next push, when it comes.
+
 __Sprint 20 - 12/8/16 - 12/14/16__
 
 This sprint I found some value codifying my commitments to my goal, ethics, and craftsmanship. It is hard to maintain a commitment to quality day after day, but no one can do it for you. You are the only perosn who can make craftsmanship happen in your work. It takes moral fortitude and strength of will to continually bring your whole self to bear on a project. So I decided to make a statement to that effect. I was willing to push things to next sprint for the sake of quality. My product is stronger because of it.
