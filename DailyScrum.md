@@ -1,7 +1,16 @@
 Questions template:
- 1. __What did I do Yesterday that helped meet the Sprint Goal?__
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+
+12/23/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Complete exercise 19 in Learn Ruby the Hard Way
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Do another exercise in learn Ruby the Hard Way
+  - Setup and try Learn C the Hard Way for the fun of it
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Nah. Bone deep exhaustion was yesterday's problem. Today there's just normal exhaustion :)
 
 12/22/16
  1. __What did I do Yesterday that helped meet the Sprint Goal?__
