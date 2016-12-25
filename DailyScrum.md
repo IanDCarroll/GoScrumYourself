@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/25/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Complete exercise 1 in Learn C the Hard Way
+  - Complete exercise 21 in Learn Ruby the Hard Way
+  - Have fun
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Play with learning more coding
+  - Have a Merry Christmas
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I worded my goals for today vague enough to make blockers difficult. Merry Christmas everybody!
+
 12/24/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Complete exercise 20 in Learn Ruby the Hard Way
