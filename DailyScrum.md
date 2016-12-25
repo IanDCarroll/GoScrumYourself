@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/24/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Complete exercise 20 in Learn Ruby the Hard Way
+  - Complete exercise 0 in Learn C the Hard Way
+  - Improve upon the design of my arduino clock that represents classical chinese temporal reckoning
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - complete exercise 21 in Learn Ruby the Hard Way
+  - Have fun
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers on Christmas Eve.
+
 12/23/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Complete exercise 19 in Learn Ruby the Hard Way
