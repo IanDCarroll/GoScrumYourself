@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/26/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Work through exercise 3 in Learn C the Hard Way
+  - Work through exercise 25 in Learn Ruby the Hard Way
+  - Had a relatively Merry Christmas
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Open up and play with my new Hardware
+  - Have fun with more Zed Shaw exercises
+  - Find ways to not nervously pace around waiting to hear back from 8th Light
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I have noticed that I have done precious little reading of Clean Code, nor have I done much in the way of preparing for my next onsite interview. There are reasons for this. I'm afraid certain activities make me look like "I am coding" while others, regardless of their value, do not. I cannot do much of what doesn't look like coding at the moment as I work with another nearby who I am afraid will criticise me for "not coding". Now that may be irrational and not entirely true, but nonetheless I feel it, so I will have to ramp up the courage to do what I need to... but not today. today I'm chickening out. I think I'll save the bravery for next sprint. It's Christmas, and I should enjoy myself. Save the hard growing opportunity for when I have the stength for it :)
+
 12/25/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Complete exercise 1 in Learn C the Hard Way
