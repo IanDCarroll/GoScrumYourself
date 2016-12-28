@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/27/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - complete ex26 in learn Ruby the Hard Way
+  - Expand the functionality of my arduino clock
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Download fritzing and doccument the hardware circuitry layout
+  - Do some Zed Shaw exercises
+  - refactor the arduino code
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I don't like having to stand up to bullies, espeically ones that assume only one relationship dynamic, master/slave, (you're the slave) and are immediately angry, hurt, or insulted if you don't follow along with that assuption perfectly. I had a work colleague do this to me today. My bosses told me I don't have to put up with it. I didn't. But It's still quite tiring to have to tell someone "no" who feels they have every right to command you. As such, the adrenaline from the fight is still in my system, and I'll need to calm down, and get less jumppy if I want to do good work today. That'd be my main blocker. Still, I feel good to be able to stand up for myself.
+
 12/26/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Work through exercise 3 in Learn C the Hard Way
