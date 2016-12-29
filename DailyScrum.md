@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/28/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - work some more on my arduino project
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - do some Zed Shaw exercises
+  - Sprint Review
+  - Sprint Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 12/27/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - complete ex26 in learn Ruby the Hard Way
