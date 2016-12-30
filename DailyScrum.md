@@ -3,6 +3,23 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+12/29/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Sprint 22 Review
+  - Sprint 22 Retrospective
+  - Sprint 23 Planning
+  - respond to review of xox app by 8th Light
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Reorder the sprint goal in light of information in 8th Light review.
+  - Prep for Onsite Interview at a separate shop.
+  - rename vairables and methods that use abreviations.
+  - change color of numbers to be viewable on other terminal emulators.
+  - rename `get_intelligence()` and `ask_cortecies()`
+  - abstract `raw_input()` and its message.
+  - Research Open-Closed priniciple in the context of UI
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - It's a lot to do, but I feel ready to get back to it.
+
 12/28/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - work some more on my arduino project
