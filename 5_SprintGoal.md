@@ -1,8 +1,10 @@
 Sprint Goal
 
- - Prepare for Onsite interview - 8 -
- - Do Some Zed Shaw Exercises - 5 -
- - Play around with Arduino - 5 -
- - Read some of Clean Code - 5 -
+ - Prep for onsite - 5 -
+ - rename methods and variables that use abreviations - 2 -
+ - rename get_intelligence() - 1 -
+ - change color of square numbers - 1 -
+ - abstract raw_input and its message - 3 -
+ - Research Open-closed principle especially in the context of UI - 5 -
 
-Total Commitment: - 23 -
+Total Commitment: - 17 -
