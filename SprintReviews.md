@@ -2,6 +2,16 @@
 __Velocity Change Log:__ 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
 
+__Sprint 22 Velocity:__ 15
+
+__Sprint 22 Review:__
+
+ - Up to exercise 3 in Learn C the Hard Way
+ - Up to exercise 26 in Learn Ruby the Hard Way
+ - An Arduino clock
+
+fun for the holidays
+
 __Sprint 21 Velocity:__ 18
 
 __Sprint 21 Review:__
