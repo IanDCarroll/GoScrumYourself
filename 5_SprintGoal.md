@@ -1,7 +1,8 @@
 Sprint Goal
 
- - Some Learn Ruby the Hard Way Exercises - 5 -
+ - Prepare for Onsite interview - 8 -
+ - Do Some Zed Shaw Exercises - 5 -
  - Play around with Arduino - 5 -
  - Read some of Clean Code - 5 -
 
-Total Commitment: - 15 -
+Total Commitment: - 23 -
