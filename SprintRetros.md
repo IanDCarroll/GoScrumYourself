@@ -1,5 +1,14 @@
 Retrospectives:
 
+__Sprint 22 - 12/22/16 - 12/28/16__
+
+Fun for the holidays, this speint was a quasi break while I wait to hear the results. although it's fun to get back into the freedom of just playing with stuff :)
+
+Actions:
+1. Remember the joy of discovering this stuff
+2. Don't forget to treat yourself well.
+3. Be a bit more of an asshole, you're so nice it's hurting you and the people around you.
+
 __Sprint 21 - 12/15/16 - 12/21/16__
 
 Man, am I glad I do the most important stuff first! It means I get what needs to get done right away, I maximize my time for that and inadvertantly steer clear of scope creep issues. It meant that I had the requirements met early this sprint, and could spend time working on getting rid of technical debt, making things clean and beautiful (well, less ugly), and all with a worry-free mind that could really bring itself to bear on the problem. I had a lot of stress because of the fact that this was the delivery version. This is what 8th Light will be evaulating me on. Even with the stress lowered by getting the important stuff done first, I was nervous enough to be sick. I couldn't imagine the paralyzing fear approching the goal differently would have caused. It would not have been pretty. Any case, I've been pushing myself to the limit. It's time to back off and goof around. The next push will come another sprint.
