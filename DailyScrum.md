@@ -3,7 +3,21 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
-12/29/16
+12/31/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Some prep for onsite interview
+  - Rename vairables and methods that use abreviations.
+  - Change color of numbers to be viewable on other terminal emulators.
+  - Remove unnecessecary assignment statements from `get_intelligence()` and `ask_lobes()`
+  - abstract raw_input and its message out of HumanPlayer and Emcee classes.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Reasearch more on open-closed principle
+  - view videos and examples offered to me
+  - Prep for onsite
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers besides myself. The biggest blocker is not my job, or my situation. The biggest blocker is me and my emotional health. The more I can stand up and work despite how the world makes me feel, the more work I can do. In classical Chinese culture, there are four plants that represent the virtues of a noble person: Orchid, Bamboo, Chrysanthemum, and Plum. The plum represents courage. At the coldest time of the year, and without any leaves on its branches, it will burst into bloom. It will even bloom though ice and snow coated on its branches. The flowers are small and ususally white, though they can range to pink and deep red. And when they break through the ice, they are often overlooked for their size, especially if they are white. You hardly notice them in the snow. When the plum blooms, it exposes its most delicate side to the worst conditions and yet thrives. In so doing, it breaks the spell of winter and heralds the return of spring. I have to be like this plum blossom. Sorry if that seemed overly sentimental or grandiose, but the story of the plum blossom captivates me. There are no blockers besides my appeasement of ice and snow, and my trepidation to bloom in spite of them.
+
+12/30/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Sprint 22 Review
   - Sprint 22 Retrospective
@@ -19,6 +33,16 @@ Questions template:
   - Research Open-Closed priniciple in the context of UI
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
   - It's a lot to do, but I feel ready to get back to it.
+
+12/29/16
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Listened to the video for Learn C the Hard Way exercise 4
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 22 Review
+  - Sprint 22 Retrospective
+  - Sprint 23 Planning
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
 
 12/28/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
