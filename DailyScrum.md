@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/1/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - view videos offered to me.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - prep for onsite
+  - personal business
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Last year was rough. This year starts off very, very cold, but I have hope. I'll need to take matters into my own hands. I can do that.
+
 12/31/16
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Some prep for onsite interview
