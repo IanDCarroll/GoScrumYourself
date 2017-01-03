@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/2/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - prep for onsite
+  - personal business
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - prep for onsite
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Considering my personal situation, I feel guilty that I don't feel completely aweful. But I'll take advantage of that by getting work done while I can. Things are still slow-going, and with many distractions, but I'm determined to make at least a little progress every day dispite it all.
+
 1/1/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - view videos offered to me.
