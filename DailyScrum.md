@@ -3,6 +3,24 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/6/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - prep for onsite
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - prep for onsite
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - as before.
+
+1/5/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - prep for onsite
+  - Learn Ruby the Hard Way exercise 28
+  - HTML/CSS section of Free Code Camp
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Prep for onsite
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - as before. I'm able to get some things done though.
+
 1/4/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - prep for onsite
