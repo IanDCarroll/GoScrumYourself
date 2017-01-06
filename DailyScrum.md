@@ -7,7 +7,7 @@ Questions template:
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - prep for onsite
  2. __What will I do today to help meet the Sprint Goal?__
-  - prep for onsite
+  - prep for onsite - read blogs, come up with good questions.
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
   - as before.
 
