@@ -3,6 +3,17 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/7/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - prep for onsite
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint Review
+  - Sprint Retrospective
+  - prep for onsite
+  - Free Code Camp (to help with front-end skills for the interview)
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No new blockers. Again, it's largely my own mental health that I have to manage. This is a really hard time, but I have to press forward.
+
 1/6/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - prep for onsite
