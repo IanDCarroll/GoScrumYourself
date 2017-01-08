@@ -1,6 +1,15 @@
 
-__Velocity Change Log:__ 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 23 Velocity:__ 15
+
+__Sprint 23 Review:__
+
+ - do small easy tweaks on xox
+ - prep for upcoming onsite interview - try and find out as much as I can about the company and interviewers
+ - develop questions, for individuals, and to ask repeatedly
+ - start doing free code camp exercises for front-end development
 
 __Sprint 22 Velocity:__ 15
 
