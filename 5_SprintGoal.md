@@ -1,10 +1,8 @@
 Sprint Goal
 
- - Prep for onsite - 5 -
- - rename methods and variables that use abreviations - 2 -
- - rename get_intelligence() - 1 -
- - change color of square numbers - 1 -
- - abstract raw_input and its message - 3 -
- - Research Open-closed principle especially in the context of UI - 5 -
+ - Do free code camp exercises to prep for onsite - 5 - 
+ - Try out the RPi Sense Hat - 5 - 
+ - refresh your python knowlege, it's been a week - 5 -
+ - Be as awesome as possible at the onsite - 8 -
 
-Total Commitment: - 17 -
+Total Commitment: - 23 -
