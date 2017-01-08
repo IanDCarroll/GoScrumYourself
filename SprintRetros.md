@@ -1,5 +1,17 @@
 Retrospectives:
 
+
+__Sprint 23 - 12/29/16 - 1/7/16__
+
+This was an extra-long sprint because I forgot to end it at the right time. But it works out because I wanted to switch the start/end of the cycle to Saturday again. My wife asked for a divorce. It's amazing I got anything done at all. So besides having an unrelated full-time job, and the sudden worry of being able to take care of myself indepentently, I also have the emotional weight of the the end of a 7-year relationship on my hands. And then I'm trying to learn to code and make a career change. As I said, amazing I could get anything done at all.
+
+But I'm not going to sit here and cry about how bad things are. Life is tough, and there are people out there who are facing worse. I've just got to try to move forward as best I can.
+
+Actions:
+1. Allow yourself to grieve, but don't give in to grief.
+2. Be social, you need other humans right now.
+3. Finish what you started.
+
 __Sprint 22 - 12/22/16 - 12/28/16__
 
 Fun for the holidays, this speint was a quasi break while I wait to hear the results. although it's fun to get back into the freedom of just playing with stuff :)
