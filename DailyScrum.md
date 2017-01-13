@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/12/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - work on free code camp JS section
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Attend SVGLUG
+  - work on Free Code Camp JS
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - JS might be overaching, but otherwise, being awesome at the interview tomorrow is the goal. That includes getting a good night's sleep.
+
 1/11/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Complete Free Code Camp JQuery Section
