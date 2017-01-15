@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/14/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - be awesome at the onsite interview
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Sprint 24 Review
+  - Sprint 24 Retrospective
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers.
+
 1/13/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - work on Free Code Camp JS section
