@@ -1,7 +1,18 @@
 Retrospectives:
 
 
-__Sprint 23 - 12/29/16 - 1/7/16__
+__Sprint 24 - 1/8/17 - 1/14/17__
+
+The sprint was all round preparing for this upcoming interview. And I certainly think that what I did was an improvement on the last one. I can't say "Yeah, I nailed it", but I did noticeably better this time around. I made sure to have questions for my interviewers, mad sure to be as prepared as I could be technically, made sure to be enthusiastic, but not so much as to appear to be a nut. So there were definately significant improvements. Whether that results in a job offer this time, I can't say, but I'm getting closer to understanding how to interview well. Interestingly enough, none of my front-end prep work was useful. That was just fine, because I wasn't exactly prepared for that. Also, the senior title was a typo, thankfully. That would have been embarrassing if they were expecting a senior.
+
+I can't assume I'm going to get it, so next sprint I'm going to go back to tic-tac-toe. I am still very excited about the prospect of 8th Light's training regimen. If I am offered a position at this company that will be a question I will have, but I won't presume to get it. If I do, I'll deal with the consequences then. Otherwise, nothing has changed. I carry on.
+
+Actions:
+1. get back into that awesome routine you had in November-December
+2. make something that is quality.
+3. continue to care for yourself.
+
+__Sprint 23 - 12/29/16 - 1/7/17__
 
 This was an extra-long sprint because I forgot to end it at the right time. But it works out because I wanted to switch the start/end of the cycle to Saturday again. My wife asked for a divorce. It's amazing I got anything done at all. So besides having an unrelated full-time job, and the sudden worry of being able to take care of myself indepentently, I also have the emotional weight of the the end of a 7-year relationship on my hands. And then I'm trying to learn to code and make a career change. As I said, amazing I could get anything done at all.
 
