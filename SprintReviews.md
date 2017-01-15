@@ -1,6 +1,14 @@
 
-__Velocity Change Log:__ 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ +3, 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 24 Velocity:__ 18
+
+__Sprint 24 Review:__
+
+ - Internet stalk all of my interviewers to be a prepared as possible.
+ - Free Code Camp refresher on Front End
+ - Be awesome at Onsite Interview.
 
 __Sprint 23 Velocity:__ 15
 
