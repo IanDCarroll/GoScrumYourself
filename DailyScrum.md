@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/17/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - research Open-closed
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Self care.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I wish I could do more today, like dive into the tic-tac-toe game, but I need to focus on keeping my spirits high. I can't focus enough for that. I need to be around people, so I'm going somehwhere public and I'm treating myself to something. Not alcohol. I just signed the acknowledgement of my wife's petition, and as much as I'm pretending I'm ok, I'm clearly not. So I need to go out and recover as best I can. Sitting at home being miserable is getting me nowhere quick.
+
 1/16/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Sprint 24 Review
