@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/18/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Self care.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - More self care
+  - possibly Learn Ruby the Hard Way
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 1/17/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - research Open-closed
