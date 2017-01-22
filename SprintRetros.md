@@ -1,5 +1,15 @@
 Retrospectives:
 
+__Sprint 25 - 1/15/17 - 1/21/17__
+
+I have had very little to do this sprint. I went in with the intention of researching open-closed principle and decoupling abstractions, but hit an emotional wall. I signed the response paperwork to my wife's petition, and it has hit me pretty hard. I've been doing all I can to still go to my regular job and keep myself emotionally stable. I did keep my head above water, so to speak. So that was a win. But no real progress has been made in the realm of coding. Next week, I'll be spending a day at 8th Light's office. Dave was kind enough to offer me a safe place to code. I don't feel that way about my home any more.
+
+To be honest, fear was a blocker in the past, fear that my wife would leave me, or become mad at some thing I did. But fear was still manageable. I could work around fear. I could go to cafes, or steal a few seconds here or there to learn and create. The positive feelings I generated from accomplishing those tasks would push the fear away enough to keep working. But now, it's not fear I'm fighting, it's despair. Despair is even more damaging to the creative process than fear. Fear, though inefficient, can still motivate you. Despair on the other hand takes what little energy you have away. Fighting despair is harder to do, but I feel that getting out of the environment that causes it will mitigate its effects. So for that reason I'm really grateful 8th Light is allowing me to ride an empty desk at their office. That will get me into a new environment and surrounded by warm people who will surely help kill the despair I feel.
+
+Actions:
+1. Too fucking stubborn to give up. I won't go gentle into that good night.
+2. Start doing Free Code Camp exercises, they're so pathetically small that they might help gear you up for 8th Light day.
+3. Get back into Learn Ruby the Hard Way for the same reason. In the words of Jim Butcher, "Polka will never die!"
 
 __Sprint 24 - 1/8/17 - 1/14/17__
 
