@@ -1,6 +1,12 @@
 
-__Velocity Change Log:__ +3, 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
+__Velocity Change Log:__ -18, +3, 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+__Sprint 25 Velocity:__ 0
+
+__Sprint 25 Review:__
+
+ - Self care
+ - Got done little beyond that this sprint. See retrospective.
 
 __Sprint 24 Velocity:__ 18
 
