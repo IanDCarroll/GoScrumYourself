@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/23/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Sprint 26 Planning
+  - Free Code Camp
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Divorce mediation
+  - free code camp
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Divoce mediation is going to emotionally wreck me. So I'm not expecting much from today. Tomorrow I need to start getting ready for office day, so I'll use that day for warmups. Ill try free code camp today anyway. I can always do something there.
+
 1/22/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Sprint Review
