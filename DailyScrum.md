@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/25/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Prepare for phone interview
+  - rock phone interview to the best of my ability
+  - prep for office day
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Decouple the UI for xox
+  - Check to make sure other abstractions are decoupled
+  - If it's all decoupled, resubmit project to 8th Light
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - I have no idea if 6 working hours is enough to complete this task. I've never worked in an office with others this way before. I can't imagine it will negatively impact my productivity, so I'm feeling there's a good chance I'll get this done. There are a lot of unknowns though.
+
 1/24/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Divorce Mediation
