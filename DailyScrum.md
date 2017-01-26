@@ -3,6 +3,18 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/26/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - Go to metup in Thousand Oaks
+  - Work on decoupling abstractions in xox
+  - Have a good day at the office
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Self care, being social
+  - Pack up personal items that are in the living room
+  - get more boxes
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 1/25/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - Prepare for phone interview
