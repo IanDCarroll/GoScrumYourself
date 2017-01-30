@@ -2,7 +2,18 @@ Questions template:
  1. __What did I do yesterday that helped meet the Sprint Goal?__
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
-
+ 
+1/29/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - finalize divorce settlement
+  - move first round stuff out of apartment
+  - self care
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - move rest of stuff out of apartment
+  - self care
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers
+ 
 1/28/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - hang out with friends
