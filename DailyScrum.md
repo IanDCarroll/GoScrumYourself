@@ -12,7 +12,7 @@ Questions template:
   - Move boxes out of the car and into the new apartment
   - Chores, etc, and rest.
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
-  - No blockers.
+  - No blockers. I've been moving pretty quickly. I hope to finally get back into a state of flow after so much chaos.
 
 1/29/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
