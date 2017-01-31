@@ -3,6 +3,16 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+1/31/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - work on decoupling the UI abstraction
+  - move boxes out of car and arrange items in an elegant way that a human can live in.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - try to finish up decoupling the UI abstraction
+  - see about groceries, laundry, prep for tomorrow night's D&D game
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Nothing but what can't be precisely forseen, but I know what snags to expect generally.
+
 1/30/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - move rest of stuff out of apartment
