@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+2/3/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - rest, transfer vehicke ownership, get myself together more.
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - Laudry
+  - Get supplies for cooking, random things I don't have any more.
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - No blockers
+
 2/2/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - D&D! (self care though socialization)
