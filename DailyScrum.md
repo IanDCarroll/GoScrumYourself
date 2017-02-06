@@ -3,6 +3,14 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+2/6/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - self care, rest
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - same today
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - no blockers
+
 2/5/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - get supplies
