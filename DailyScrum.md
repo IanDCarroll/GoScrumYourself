@@ -3,6 +3,15 @@ Questions template:
  2. __What will I do today to help meet the Sprint Goal?__
  3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
 
+2/7/17
+ 1. __What did I do yesterday that helped meet the Sprint Goal?__
+  - self care
+ 2. __What will I do today to help meet the Sprint Goal?__
+  - chores
+  - prep for coding tomorrow
+ 3. __Do I see any blockers that prevent me from meeting the Sprint Goal?__
+  - Tomorrow is my day off, so I'm planning to spend the bulk of it completing my application to 8th Light. Today, I want to get as much done as I can.
+
 2/6/17
  1. __What did I do yesterday that helped meet the Sprint Goal?__
   - self care, rest
