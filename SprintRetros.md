@@ -1,5 +1,20 @@
 Retrospectives:
 
+__Sprint 26 - 1/22/17 - 2/12/17__
+
+My discipline has broken down. I have submitted a final project to 8th Light, and that took a hurculean effort as I have gone through probably the very worst time of my adult life. So in order to start things up again, I'm putting a bow on this scrum log. I have made amazing progress using this tool, and it provided me a structure to hold onto and direct my learning through a vast ocean of pottential subjects to learn while suffering the slings and arrows of a dying relationship with all of the grief, fear, misery and dispair that accompanies such events. I would highly recommend this tool to any self learner out there for any subject or project at all. It is immensely valuable.
+
+that being said, I need to take about a month or so off from this structure. I can't maintain it right now, so it needs to fall away for a time. I need personal time to find who I am without my wife, and what I beleive about myself, and how I express that. I have put myself on hold trying to revive a failing relationship. Now it's time to take a different aproach and make myself as strong as I can be. My intention is to restart this after this "sabatical", but we'll have to see. I love software though. So I think I'll be back. But when I return it will be with a new scrum bucket. This one needs to be put to rest.
+
+I could continue the scrum with completely non-software related stuff, but I think I need to develop this aspect of myself in private, then come back when its ready. also, as I mentioned, my discipline has broken down. I'll need to let it lie fallow for a time and then start the cycle again.
+
+Actions:
+ 1. Take some unstructured time off.
+ 2. Discover what safety is again.
+ 3. Find out who I am, and what I want.
+ 4. Express that unconditionally.
+ 5. Return after I've found the path again.
+
 __Sprint 25 - 1/15/17 - 1/21/17__
 
 I have had very little to do this sprint. I went in with the intention of researching open-closed principle and decoupling abstractions, but hit an emotional wall. I signed the response paperwork to my wife's petition, and it has hit me pretty hard. I've been doing all I can to still go to my regular job and keep myself emotionally stable. I did keep my head above water, so to speak. So that was a win. But no real progress has been made in the realm of coding. Next week, I'll be spending a day at 8th Light's office. Dave was kind enough to offer me a safe place to code. I don't feel that way about my home any more.

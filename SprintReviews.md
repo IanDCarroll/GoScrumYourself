@@ -1,6 +1,12 @@
 
 __Velocity Change Log:__ -18, +3, 0, 0, 0, -23, +1, +10, -13, +18, 0, -20, 0, +6, -2, -3, +11, +1, -2, -11, -12, +28, +24
 
+
+__Sprint 26 Review__
+
+ - Finally submitted a finished product.
+ - More can be done, but this is a good stopping point.
+
 __Sprint 25 Velocity:__ 0
 
 __Sprint 25 Review:__
